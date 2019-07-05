@@ -309,7 +309,7 @@
   STR_MOUSEWHEEL_SPEED_DESC: "Adjusts the number of lines scrolled in lists with each increment of the mouse wheel."
   STR_DISABLED: "Disabled"
   STR_MAXIMIZE_INFO_SCREENS: "Maximize info screens"
-  STR_MAXIMIZE_INFO_SCREENS_DESC: "Inventory and various other screens will be displayed at full screen, regardless of scale settings."  
+  STR_MAXIMIZE_INFO_SCREENS_DESC: "Inventory and various other screens will be displayed at full screen, regardless of scale settings."
   STR_DIARY: "DIARY"
   STR_KILLED: "KILLED"
   STR_STUNNED: "STUNNED"
@@ -590,7 +590,7 @@
   LIB: "Library"
   COMU: "Communications"
   PSI: "Shrine"
-  CHAOS: "Chaos"  
+  CHAOS: "Chaos"
   STR_AVATAR_NAME_1: "01"
   STR_AVATAR_NAME_2: "02"
   STR_AVATAR_NAME_3: "03"
@@ -716,8 +716,8 @@
   STR_BASE_UC_: "BASE> {0}"
   STR_BASE_DEFENSE_BRIEFING: "An enemy vessel has landed nearby. Our base is in severe danger. All non-combat personnel have been evacuated. Enemy units will enter the base via the hangar doors or the access lift. Defend the base and its vital installations at all costs - this is a fight to the death. If you click on the 'abort mission' icon you will concede defeat and lose the base."
   STR_ALIEN_BASE_ASSAULT: "ENEMY BASE ASSAULT "
-  STR_ALIEN_BASE_ASSAULT2: "ENEMY BASE PURGE"  
-  STR_ALIEN_BASE_ASSAULT_BRIEFING: "The air is thick with corruption, but do not falter Commander! We must find entrance to the foul the Chaos base, for that is the Emperor's will, let none stop us in this quest. Service to the Imperium!"  
+  STR_ALIEN_BASE_ASSAULT2: "ENEMY BASE PURGE"
+  STR_ALIEN_BASE_ASSAULT_BRIEFING: "The air is thick with corruption, but do not falter Commander! We must find entrance to the foul the Chaos base, for that is the Emperor's will, let none stop us in this quest. Service to the Imperium!"
   STR_ALIEN_BASE_ASSAULT2_BRIEFING: "Your troops have gained entrance to an enemy base. The control center must be destroyed to render the base inoperative. The mission will terminate when all enemies are eliminated, or when your troops have returned to the green exit area (click on the 'abort mission' icon to escape)."
   STR_TERROR_MISSION: "TERROR MISSION"
   STR_TERROR_MISSION_CULTISTS_MARINES: "TERROR MISSION - Cultists"
@@ -758,7 +758,7 @@
   STR_ORK_WAAAGH: "Ork WAAAGH"
   STR_ORK_BASE_FROM_EXISTING: "Ork Expansion"
 #HULK MISSION
-  STR_ARTIFACT_SITE_P1: "SPACE HULK MISSION ENTRANCE" #Missions 
+  STR_ARTIFACT_SITE_P1: "SPACE HULK MISSION ENTRANCE" #Missions
   STR_ARTIFACT_SITE_P2: "SPACE HULK MISSION PURGE"
   STR_ALIEN_CONTACT_SITE_MISSION: "SPACE HULK MISSION"
   STR_ALIEN_ACTIVITY_DETECTED: "SPACE HULK DETECTED"
@@ -781,12 +781,12 @@
   STR_WEBWAY_DEVICE_FAILED: "WebWay portal still active"
 
 #*** SPACE MARINE MISSIONS ****************************************************
-  STR_CHAOS_FINAL_LANDING: "Chaos Final Landing" 
+  STR_CHAOS_FINAL_LANDING: "Chaos Final Landing"
   STR_CHAOS_FINAL1_TITLE: "The Inquisition Base Entrance"
   STR_CHAOS_FINAL1_DESC: "Your transports have arrived at the Inquisition's fortified base - inside we will encounter the Grey Knights, puppets of the Inquisition, responsible for the 'purity' of this world. Contrary to their doctrine and teachings, their faith in the corpse emperor will not protect them against our might!"
   STR_CHAOS_FINAL_ASSAULT: "Chaos Final Assault"
   STR_CHAOS_FINAL2_TITLE: "The Inquisition Assassination"
-  STR_CHAOS_FINAL2_DESC: "To end your quest and take over the planet without opposition your primary target lies ahead, the Masters of the Grey Knights sent to quell our 'heresy'. Leave none standing, no stone unturned, and free this world of the Imperium's oppression!"  
+  STR_CHAOS_FINAL2_DESC: "To end your quest and take over the planet without opposition your primary target lies ahead, the Masters of the Grey Knights sent to quell our 'heresy'. Leave none standing, no stone unturned, and free this world of the Imperium's oppression!"
   STR_DUNNO: "Configure your forces as you desire and"
   STR_SIGNAL: "Imperial Signal"
   STR_FINAL_BASE_: "EYE OF THE STORM"
@@ -816,7 +816,7 @@
 # MISSIONS 1 -----------------------------------------------
   STR_TRAIN_MISSION: "Training Mission"
   STR_TRAIN_MISSION_TITLE: "Training Mission"
-  STR_TRAIN_MISSION_DESCRIPTION: "Force Commander, configure your forces as you desire and take down all target hologram present in the field. Practice as you wish for the next encounters will not be this light." 
+  STR_TRAIN_MISSION_DESCRIPTION: "Force Commander, configure your forces as you desire and take down all target hologram present in the field. Practice as you wish for the next encounters will not be this light."
 # MISSIONS 2 -----------------------------------------------
   STR_CHOUT: "Chaos Outpost"
   STR_CHOUT_ALERT: "Chaos Outpost Raid"
@@ -912,7 +912,7 @@
   STR_HYPER_WAVE_DECODER: "Transmission Decoder"
   STR_HYPER_WAVE_DECODER_UFOPEDIA: "{NEWLINE} This facility acts as a powerful energy sensor to detect enemy craft. It is able to decipher chaos communications within its radius, giving additional information about a detected craft."
   STR_NAVY_COMUNICATIONS: "Orbital Communications"
-  STR_COM_UFOPEDIA: "{NEWLINE} This facility is designed to establish direct communications with the Imperium's Navy in orbit of the planet, allowing for production of orbital bombardment beacons." 
+  STR_COM_UFOPEDIA: "{NEWLINE} This facility is designed to establish direct communications with the Imperium's Navy in orbit of the planet, allowing for production of orbital bombardment beacons."
   STR_COMUNICATIONS: "Orbital Communications Center"
   STR_PSIONIC_LABORATORY: "Chapel"
   STR_PSI_LAB: "Chapel"
@@ -922,7 +922,7 @@
   STR_LASER_DEFENSES_UFOPEDIA: "{NEWLINE} This facility is a heavy weapon emplacement, using dual aegis lascannons for anti-air defense purposes."
   STR_MISSILE_DEFENSES: "Missile Defenses"
   STR_PLASMA_DEFENSES: "Plasma Defenses"
-  STR_PLASMA_DEFENSES_UFOPEDIA: "{NEWLINE} This facility is a heavy weapon emplacement, using dual plasma cannons for anti-air defense purposes."  
+  STR_PLASMA_DEFENSES_UFOPEDIA: "{NEWLINE} This facility is a heavy weapon emplacement, using dual plasma cannons for anti-air defense purposes."
   STR_FUSION_DEFENSE: "Multi-Melta Defenses"
   STR_FUSION_BALL_DEFENSES: "Multi-Melta Defenses"
   STR_FUSION_BALL_DEFENSES_UFOPEDIA: "{NEWLINE} This facility is a heavy weapon emplacement, using Multi-Meltas for anti-air defense purposes. Drawing from the base's power grid, the guns have improved range and power over the craft-borne variant."
@@ -931,7 +931,7 @@
   STR_APOC_BAY: "Apothecary Bay"
   STR_APOC_BAY_UFOPEDIA: "{NEWLINE} This facility is where Apothecary marines perform advanced biomedical and scientific tasks for the Imperium's forces. Apothecaries are charged with maintaining the bodily health of their Battle Brothers, whether this is monitoring their genetically engineered implants or administering medical attention on the field of battle. This facility improves wound recovery time at the base."
   STR_TEC_BAY: "Techmarine Bay"
-  STR_TEC_BAYR: "Techmarine Requisition"  
+  STR_TEC_BAYR: "Techmarine Requisition"
   STR_TEC_BAY_UFOPEDIA: "{NEWLINE} This facility is where Techmarines perform the most critical of their tasks, operating, maintaining, and, if necessary, repairing the myriad of war machines used by the Space Marines. Every item of technology, from a simple round of ammunition to a Battle Barge, is revered as an instrument of the Emperor's divine will, and the Techmarine knows that to neglect such equipment is akin to dereliction of duty and blasphemy."
   STR_LIBRARY: "Librarium"
   STR_LIBRARY_UFOPEDIA: "{NEWLINE} This vast sealed chamber known as the Librarium is filled from floor to ceiling with books, scrolls, and data crystals. The Librarium is the repository of all the Chapter's knowledge and history. The Librarians of the Astartes are expected to record the great deeds of their Chapter and maintain the Chapter's storehouse of ancient lore. This facility allows the production of the Librarian Armor."
@@ -956,8 +956,8 @@
   STR_PURITY_SEAL: "Purity Seal"
 
 #*** CODEX AND EQUIPMENT ******************************************************
-  STR_UFOPAEDIA_UC: "CODEX"
-  STR_UFOPAEDIA: "CODEX"
+  STR_UFOPAEDIA_UC: "КОДЕКС"
+  STR_UFOPAEDIA: "КОДЕКС"
   #STR_SHOT_TYPE_AUTO: "Auto (x{0})"
   STR_SHOT_TYPE_SNAP: "Snap (x{0})"
 # Categories
@@ -1016,11 +1016,11 @@
   STR_MISSION9: "MISSION 9"
   STR_MISSION9_TEXT: "{NEWLINE} Outpost Rescue {NEWLINE} We have just received a distress call from Sister Sergeant Joan Juno, Intel indicates her squad was destroyed and she is in dire need of assistance"
   STR_ENDMISSION: "SIDEMISSIONS COMPLETED"
-  STR_ENDMISSION_TEXT: "{NEWLINE} Force Commander, your valiant efforts and accomplishments in service to the Imperium deserve reward. All side operations are completed... for now. {NEWLINE}{NEWLINE} As a result, our mechanicus have provided the chapter with new mastercrafted items in the arsenal that can be manufactured." 
+  STR_ENDMISSION_TEXT: "{NEWLINE} Force Commander, your valiant efforts and accomplishments in service to the Imperium deserve reward. All side operations are completed... for now. {NEWLINE}{NEWLINE} As a result, our mechanicus have provided the chapter with new mastercrafted items in the arsenal that can be manufactured."
 #ITEMS GK
   STR_GK_HB: "Storm Bolter Gauntlet"
   STR_HALLEBARD: "Force Halberd"
-  STR_HALLEBARD_UFOPEDIA: "{NEWLINE} A Nemesis Force Halberd is a two-handed weapon that consists of a long adamantium haft with an iron and silver blade set upon the top. This extra reach often allows a Grey Knight to land a fatal blow, killing the enemy before coming within reach of its weapons."  
+  STR_HALLEBARD_UFOPEDIA: "{NEWLINE} A Nemesis Force Halberd is a two-handed weapon that consists of a long adamantium haft with an iron and silver blade set upon the top. This extra reach often allows a Grey Knight to land a fatal blow, killing the enemy before coming within reach of its weapons."
 #ITEMS ELDAR
   STR_CATAPULT_PISTOL: "Shuriken Pistol"
   STR_CATAPULT: "Shuriken Catapult"
@@ -1035,7 +1035,7 @@
   STR_ELDAR_GRENADE_UFOPEDIA: "{NEWLINE} The Eldar and Dark Eldar use plasma grenades similarly to the more crudely designed Frag Grenades in use by the Imperium. They are an ideal tool to stall the advance of enemy forces upon Eldar defensive positions."
   STR_ELDAR_MGRENADE_UFOPEDIA: "{NEWLINE} An Eldar Variant of the melta bomb, but not belonging to the imperial melta design tree. Typical examples have dimensions analogous to that of a grenade, but may also be larger. When activated, they explode with intense thermal energy, 'melting' the target away."
   STR_LH: "Cast Lightning"
-#ITEMS ORK 
+#ITEMS ORK
   STR_GRETCHIN_BLASTA: "Small Blasta"
   STR_GRETCHIN_AMMO_BIT: " Small Blasta Ammo Bit"
   STR_SLUGGA: "Slugga"
@@ -1090,7 +1090,7 @@
   AUX_RAM: "RAM"
   AUX_SENTINEL_STOMP: "Walker Foot"
   AUX_CENTURION_GRAVGUN: "Grav-cannon"
-  AUX_CENT_ROCKET: "Missile Launcher"  
+  AUX_CENT_ROCKET: "Missile Launcher"
   AUX_REPAIR: "Servo-Arm"
   AUX_HOVERTANK_PLASMA: "Plasma Canon"
   AUX_HOVERTANK_LASER: "Twin-linked Lascannons"
@@ -1129,14 +1129,14 @@
   STR_OBLITERATOR_MELEE_WEAPON: "Fused Fist"
   STR_OBLITERATOR_WEAPON: "Fused Melta"
   STR_COMBILAS: "Lascannon"
-  STR_FIXED_SONIC_CANON: "Sonic Canon"  
+  STR_FIXED_SONIC_CANON: "Sonic Canon"
   STR_ENABLE_WEAPON: "Weapon Module"
   STR_DISABLEMODULE: "Disable Weapon Module"
   #STR_SUPORTF: "Support Weapon"
   STR_SONIC_CANON: "Sonic Blaster"
   STR_SONIC_CANON_UFOPEDIA: "{NEWLINE} The Noise Marines are warriors whose senses are jaded and dulled by centuries of hedonistic excess. Only the most extreme sensations stir them, hence their use of Sonic Weapons. The louder and more discordant the noise, the more extreme the emotional reaction provoked in the Noise Marine. Sonic weapons use sonic waves to inflict deafeningly loud, psycho-sonically and pyrotechnically explosive blasts."
   STR_CHAOS_CROZIUS: "Chaos Sorcerer's Staff"
-  STR_CHAOS_CROZIUS_UFOPEDIA: "{NEWLINE} The Sorcerer's Staff is a force weapon carried by Chaos Sorcerers. It is used to channel psychic energy and then unleash it in a burst greater than a single mind can control. {NEWLINE} Weapon Damage details {NEWLINE} To Moral: 40.0 {NEWLINE} To Health: 2.0"  
+  STR_CHAOS_CROZIUS_UFOPEDIA: "{NEWLINE} The Sorcerer's Staff is a force weapon carried by Chaos Sorcerers. It is used to channel psychic energy and then unleash it in a burst greater than a single mind can control. {NEWLINE} Weapon Damage details {NEWLINE} To Moral: 40.0 {NEWLINE} To Health: 2.0"
   STR_AXE: "Chaos Chain Axe"
   STR_AXE_UFOPEDIA: "{NEWLINE} A Chainaxe is a brutal hand-to-hand chain weapon crafted in the form of a great one or two-handed axe which incorporates a powered chainsaw edge. The biting action of the whirling row of monomolecular teeth means these weapons can easily hack through both flesh and armour with ease. The Chainaxe is the favorite weapon of the Khorn Berserkers."
   STR_CPOWER_SWORD: "Chaos Power Sword"
@@ -1144,14 +1144,14 @@
   STR_CPOWER_DAGGER: "Chaos Power Dagger"
   STR_CPOWER_DAGGER_UFOPEDIA: "{NEWLINE} Chaos Power Dagger"
   STR_ASSCTZ: "Soulreaper Cannon"
-  STR_ASSCTZ_UFOPEDIA: "{NEWLINE} Soulreaper Cannon " 
-  STR_FLAMETHROWER_CHAOS: "Chaos Flamer" 
+  STR_ASSCTZ_UFOPEDIA: "{NEWLINE} Soulreaper Cannon "
+  STR_FLAMETHROWER_CHAOS: "Chaos Flamer"
   STR_FLAMETHROWERTZ: "Warpflamer"
   STR_FLAMETHROWERTZ_UFOPEDIA: "{NEWLINE} Warpflamer "
   STR_BOLTERN: Plague Bolter
   STR_BOLTERN_UFOPEDIA: "{NEWLINE} Warpflamer "
   STR_BOLTERR: "Inferno Bolter"
-  STR_BOLTERR_UFOPEDIA: "{NEWLINE} Inferno Bolter"  
+  STR_BOLTERR_UFOPEDIA: "{NEWLINE} Inferno Bolter"
   STR_RIFLE_CLIP_N: "Plague Bolter Clip"
   STR_RIFLE_CLIP_R: "Inferno Bolter Clip"
   STR_BLIGHT_ROCKET: "Blight Rocket"
@@ -1169,8 +1169,8 @@
   STR_SMALL_LAUNCHER: "Chaos Graviton Gun"
   STR_SMALL_LAUNCHER_TERRAN: "Graviton Gun"
   STR_STUN_BOMB: "Graviton Gun Round"
-  STR_SMALL_LAUNCHER_UFOPEDIA: "{NEWLINE} The Grav-Gun, also known as a Graviton Gun, is a devastating weapon based on ancient and forgotten technology dating back to the time of the Dark Age of Technology. Manipulating the very nature of gravity itself, a Grav-Gun turns a target's mass against it, crushing it to pulp under its own weight." 
-  STR_SMALL_LAUNCHER_TERRAN_UFOPEDIA: "{NEWLINE} The Grav-Gun, also known as a Graviton Gun, is a devastating weapon based on ancient and forgotten technology dating back to the time of the Dark Age of Technology. Manipulating the very nature of gravity itself, a Grav-Gun turns a target's mass against it, crushing it to pulp under its own weight." 
+  STR_SMALL_LAUNCHER_UFOPEDIA: "{NEWLINE} The Grav-Gun, also known as a Graviton Gun, is a devastating weapon based on ancient and forgotten technology dating back to the time of the Dark Age of Technology. Manipulating the very nature of gravity itself, a Grav-Gun turns a target's mass against it, crushing it to pulp under its own weight."
+  STR_SMALL_LAUNCHER_TERRAN_UFOPEDIA: "{NEWLINE} The Grav-Gun, also known as a Graviton Gun, is a devastating weapon based on ancient and forgotten technology dating back to the time of the Dark Age of Technology. Manipulating the very nature of gravity itself, a Grav-Gun turns a target's mass against it, crushing it to pulp under its own weight."
   STR_GRAVGUN_MC: "Master Crafted Grav-Gun"
   STR_STUN_BOMB_UFOPEDIA: "{NEWLINE} Ammo used by graviton gun"
   STR_LASCAN: "Lascannon"
@@ -1218,34 +1218,34 @@
   STR_AC_AP_AMMO: "AP Case"
   STR_AC_HE_AMMO: "HE Case"
   STR_AC_I_AMMO: "I Case"
-  STR_CHAINSWORD: "Chainsword"  
+  STR_CHAINSWORD: "Chainsword"
   STR_POWER_SWORD: "Power Sword"
   STR_HAMMER: "Thunder Hammer"
   STR_KNIF: "Combat Knife"
   STR_CLAWS: "Lightning Claws"
   STR_CLAWS_UFOPEDIA: "{NEWLINE} A Terminator Sergeant's melee weapon, with damage increases based on by its user's strength and melee skill. {NEWLINE} Also ignores up to 30% of enemy armor."
   STR_HAMMER_UFOPEDIA:  "{NEWLINE} Thunder Hammers are primarily used by Space Marines clad in Terminator Armor. This large warhammer incorporates an energy field emitter within its head that activates only when the hammer strikes its target. {NEWLINE} Strength required: 120"
-  STR_CHAINSWORD_UFOPEDIA: "{NEWLINE} The Chainsword is the preferred close combat melee weapon of many of the military forces of the Imperium of Man. The Chainsword is essentially a sword with powered teeth that run along a single-edged blade like that of a chainsaw. Most versions of the weapon make use of monomolecularly-edged or otherwise razor-sharp teeth {NEWLINE} Strength required: 25"  
+  STR_CHAINSWORD_UFOPEDIA: "{NEWLINE} The Chainsword is the preferred close combat melee weapon of many of the military forces of the Imperium of Man. The Chainsword is essentially a sword with powered teeth that run along a single-edged blade like that of a chainsaw. Most versions of the weapon make use of monomolecularly-edged or otherwise razor-sharp teeth {NEWLINE} Strength required: 25"
   STR_POWER_SWORD_UFOPEDIA: "{NEWLINE} A Power Sword is a Power Weapon that has been shaped into a sword of varying lengths and designs crafted from one of any number of different materials, though the most common is Adamantium. When its power cell is activated, often by touching a control located on the hilt, the blade is sheathed in a lethal corona of disruptive energy. {NEWLINE} Strength required: 100"
   AUX_MORTAR: "Cyclone Missile Launcher"
   STR_LAUNCH_SALVO: "Launch Salvo"
-  AUX_MORTAR_UFOPEDIA: "{NEWLINE} The Cyclone Missile Launcher is a specially designed Missile Launcher system used by Space Marines in Terminator Armor to provide heavy fire support. The extra firepower often proves necessary, since Terminator Squads are an elite force, called upon to undertake the toughest and most dangerous missions in the most hazardous conditions."  
+  AUX_MORTAR_UFOPEDIA: "{NEWLINE} The Cyclone Missile Launcher is a specially designed Missile Launcher system used by Space Marines in Terminator Armor to provide heavy fire support. The extra firepower often proves necessary, since Terminator Squads are an elite force, called upon to undertake the toughest and most dangerous missions in the most hazardous conditions."
   STR_KNIF_UFOPEDIA: "{NEWLINE} A Combat Knife is the ubiquitous back-up melee weapon for warriors all across the Imperium of Man, be they lowly hive city scum or the elite soldiers of a Planetary Governor. {NEWLINE} Strength required: 5"
   STR_POWERFIST: "Powerfist"
   STR_POWERFIST_UFOPEDIA: "{NEWLINE} A Power Fist is essentially an over-sized, armoured gauntlet that generates an energy field around it, one that is capable of violently disrupting any solid matter it touches. {NEWLINE} Strength required: 40"
   STR_BANNER: "Chapter Banner"
-  STR_BANNER_UFOPEDIA: "{NEWLINE} Standards are ceremonial objects of the Space Marine Chapters, bearing the symbol of the Chapter and marked with sacred motifs and the battle honors gained in past wars. The bravest of banner bearers will revitalize their Brothers when calling a charge, increasing morale and inspiring greater action. Stun damage is a side effect of the push forward."  
+  STR_BANNER_UFOPEDIA: "{NEWLINE} Standards are ceremonial objects of the Space Marine Chapters, bearing the symbol of the Chapter and marked with sacred motifs and the battle honors gained in past wars. The bravest of banner bearers will revitalize their Brothers when calling a charge, increasing morale and inspiring greater action. Stun damage is a side effect of the push forward."
   STR_FLAMETHROWER: "Flamer"
   STR_FLAMETHROWER_UFOPEDIA: "{NEWLINE} Flamers, also known as Flame Guns, are Flamer Weapons that come in a wide variety of designs and patterns, but all are ideal for flushing out enemies in cover and putting groups of foes to the torch with projected flame."
   STR_FLAMETHROWER_CLIP: "Flamer Clip"
 #####AMMO####---------------------------------------------------
   STR_AMMO_TYPE: "AMMUNITION"
-  STR_AMMO_OVER: "Ammunition Overview"  
+  STR_AMMO_OVER: "Ammunition Overview"
   STR_AMMO_TYPE_UFOPEDIA: "{NEWLINE} The Tech-priests of the Adeptus Mechanicus and the skilled Artificers of the Adeptus Astartes have developed many types of ammunition over the millennia for the different branches of the Imperial military. The most common variants are described in this section."
   STR_AMMOB: "Special Bolts"
   STR_BOLTER_AMMO: "Standard Bolts"
   STR_MC_AMMO: "Mastercrafted Bolts"
-  STR_DOUBLE_AMMO: "Double-Barreled Bolters" 
+  STR_DOUBLE_AMMO: "Double-Barreled Bolters"
   STR_MELTA_AMMO: "Melta Charge"
   STR_MELTA_AMMO2: "Melta Charge"
   STR_LAS_AMMO: "Power Cell"
@@ -1257,9 +1257,9 @@
   STR_PLASMA_AMMO_UFOPEDIA: "{NEWLINE} Plasma Flask damage details: {NEWLINE} Ignores armor: 25% {NEWLINE} Health damage: 100% {NEWLINE} Armor damage after piercing: 20%" #D
   STR_GRAV_AMMO_UFOPEDIA: "{NEWLINE} Graviton Induction Core damage details: {NEWLINE} Ignores armor: 100%" #D
   STR_BOLTER_AMMO_UFOPEDIA: "{NEWLINE} Bolt ammo damage details: {NEWLINE} Armor damage: 5% {NEWLINE} Ignores armor: 10% {NEWLINE} Stun damage: 50%" #D
-  STR_MC_AMMO_UFOPEDIA: "{NEWLINE} Master crafted bolt ammo damage details: {NEWLINE} Armor damage: 5% {NEWLINE} Ignores armor: 10% {NEWLINE} Stun damage: 50% {NEWLINE} Increased power over standard bolts." #D  
+  STR_MC_AMMO_UFOPEDIA: "{NEWLINE} Master crafted bolt ammo damage details: {NEWLINE} Armor damage: 5% {NEWLINE} Ignores armor: 10% {NEWLINE} Stun damage: 50% {NEWLINE} Increased power over standard bolts." #D
   STR_AMMOB_UFOPEDIA: "{NEWLINE} Metal Storm Frag Bolts are best used against multiple lightly-armoured targets. They detonate before impact and spray shrapnel in a small radius. {NEWLINE}{NEWLINE} Kraken Penetrator Bolts are powerful armour-piercing rounds. The dense metallic core is replaced by a solid Adamantium core and uses a heavier main charge. Ignores 50% of armor, but does not damage it before piercing."
-#####BOLTERS####---------------------------------------------------  
+#####BOLTERS####---------------------------------------------------
   STR_PISTOL: "Boltpistol Ceres Pattern"
   STR_PISTOLB: "Boltpistol Ultra Pattern"
   STR_PISTOLS: "Boltpistol Spectris Pattern"
@@ -1283,22 +1283,22 @@
   STR_ASSC: "Assault Cannon"
   STR_ASSC_UFOPEDIA: "{NEWLINE} the Assault Cannon is a six-barrelled, self-loading rotary Autocannon, effective against infantry targets and light vehicles at close to medium range. It fires medium caliber rounds as its 6 barrels are cycled past a single chamber by an electric motor."
   STR_CASSC: "Reaper Autocannon"
-  STR_CASSC_UFOPEDIA: "{NEWLINE} the Reaper Autocannon is a double-barrelled variant of the standard Autocannon. The Reaper Autocannon was originally designed during the Great Crusade for use as a heavy support weapon for the Terminator Squads of the Space Marine Legions."  
+  STR_CASSC_UFOPEDIA: "{NEWLINE} the Reaper Autocannon is a double-barrelled variant of the standard Autocannon. The Reaper Autocannon was originally designed during the Great Crusade for use as a heavy support weapon for the Terminator Squads of the Space Marine Legions."
   STR_ASSC_CLIP: "Assault Cannon Case"
   STR_HB: "Storm Bolter"
   STR_HB_UFOPEDIA: "{NEWLINE} The Storm Bolter is a double-barrelled version of the standard .75 caliber Bolter. As it is heavier and causes more recoil than a normal Bolter, it is even more rarely used than the Bolter by the regiments of the Astra Militarum. Instead, Storm Bolters are the standard weapons employed by Space Marine Terminators or as a vehicle-mounted weapon."
   STR_CHB: "Chaos Storm Bolter"
-  STR_CHB_UFOPEDIA: "{NEWLINE} Chaos Marines lack access to the Storm Bolter, as the weapon was invented (or rediscovered) after they fled to the Warp. However they still have an older version of the weapon called the Combi-Bolter, which was used around the time of the Great Crusade and the Horus Heresy. Basically 2 bolters hooked together and linked to the same trigger mechanism, this offers the advantage of increased rate of fire with drawback of greatly increased weight and recoil."  
+  STR_CHB_UFOPEDIA: "{NEWLINE} Chaos Marines lack access to the Storm Bolter, as the weapon was invented (or rediscovered) after they fled to the Warp. However they still have an older version of the weapon called the Combi-Bolter, which was used around the time of the Great Crusade and the Horus Heresy. Basically 2 bolters hooked together and linked to the same trigger mechanism, this offers the advantage of increased rate of fire with drawback of greatly increased weight and recoil."
   STR_HB_CLIP: "Storm Bolter Clip"
   STR_HEAVY_CANNON: "Sniper Rifle"
-  STR_HEAVY_CANNON_UFOPEDIA: "{NEWLINE} A Sniper Rifle is a high-powered and highly accurate projectile or directed energy weapon that is used to attack distant foes and lightly armoured targets at extreme ranges with unerring accuracy. Capable of firing powerful shots with lethal precision."  
+  STR_HEAVY_CANNON_UFOPEDIA: "{NEWLINE} A Sniper Rifle is a high-powered and highly accurate projectile or directed energy weapon that is used to attack distant foes and lightly armoured targets at extreme ranges with unerring accuracy. Capable of firing powerful shots with lethal precision."
   STR_HC_AP_AMMO: "AP Bullets"
   STR_HC_HE_AMMO: "HE Bullets"
   STR_HC_I_AMMO: "I Bullets"
   STR_SNIPER_CHAOS: "Chaos Sniper Rifle"
   STR_ROCKET_LAUNCHER: "Missile Launcher"
   STR_CHAOS_ROCKET_LAUNCHER: "Chaos Missile Launcher"
-  STR_ROCKET_LAUNCHER_UFOPEDIA: "{NEWLINE} A Missile Launcher fires self-propelled guided projectiles that usually contain explosive, chemical, or destructive energy warheads. Missiles may use a chemical rocket, jet engine, or something more esoteric such as an anti-gravity drive for propulsion." 
+  STR_ROCKET_LAUNCHER_UFOPEDIA: "{NEWLINE} A Missile Launcher fires self-propelled guided projectiles that usually contain explosive, chemical, or destructive energy warheads. Missiles may use a chemical rocket, jet engine, or something more esoteric such as an anti-gravity drive for propulsion."
   STR_SMALL_ROCKET: "Frag Missile"
   STR_LARGE_ROCKET: "Krak Missile"
   STR_INCENDIARY_ROCKET: "Incendiary Missile"
@@ -1318,7 +1318,7 @@
   STR_HEAVY_PLASMA_TERRAN: "Heavy Plasma"
   STR_HEAVY_PLASMA_TERRAN_UFOPEDIA: "{NEWLINE} The Plasma Cannon, also sometimes called the Heavy Plasma Gun, relies on plasma technology to deliver lethal blasts of superheated matter to the target. Plasma Weaponsare powered by hydrogen fuel suspended in a cryogenic state."
   STR_HEAVY_PLASMA_CLIP: "Heavy Plasma Charge"
-  STR_HEAVY_PLASMA_CLIP_UFOPEDIA: "Heavy Plasma 10 round Charge"  
+  STR_HEAVY_PLASMA_CLIP_UFOPEDIA: "Heavy Plasma 10 round Charge"
   STR_PLASMA_RIFLE: "Chaos Plasma Gun"
   STR_PLASMA_RIFLE_TERRAN: "Plasma Gun"
   STR_PLASMA_RIFLE_UFOPEDIA: "{NEWLINE} The Plasma Gun is a rifle-sized Plasma Weapon common to many of the armed forces of the Imperium of Man. It is classified as a special weapon and is carried by a variety of Imperial infantry, including Space Marines, Imperial Guardsmen, and Storm Troopers."
@@ -1330,7 +1330,7 @@
   STR_PLASMA_PISTOL_UFOPEDIA: "{NEWLINE} The Plasma Pistol is the smallest variant in the Plasma Weapons family. The Traitor Legions have long made use of larger plasma weapons containing hydrogen fuel in a higher quantum state, making them both more powerful and more dangerous to wield."
   STR_PLASMA_PISTOL_TERRAN_UFOPEDIA: "{NEWLINE} The Plasma Pistol is the smallest variant in the Plasma Weapons family. Each shot from a plasma pistol contains all the destructive fury of a larger Plasma Gun, although with a reduced range and rate of fire."
   STR_PLASMA_PISTOL_CLIP: "Plasma Pistol Charge"
-  STR_PLASMA_PISTOL_CLIP_UFOPEDIA: "Plasma Pistol 20 round Charge"  
+  STR_PLASMA_PISTOL_CLIP_UFOPEDIA: "Plasma Pistol 20 round Charge"
   STR_BLASTER_LAUNCHER: "Chaos Multimelta"
   STR_BLASTER_LAUNCHER_UFOPEDIA: "{NEWLINE} The Multi-Melta is a heavier version of the standard Meltagun, composed of multiple barrels and effective at longer ranges than the standard version"
   STR_BLASTER_LAUNCHER_TERRAN: "Multimelta"
@@ -1374,9 +1374,9 @@
   STR_CHAP_ARMOR: "MK7 Chaplain Armor"
   STR_CHAP_ARMOR_UFOPEDIA: "A Chaplain is a specialist officer of the Adeptus Astartes and serves as the appointed spiritual leader of a Space Marine Chapter. Chaplains are the warrior-priests that minister to the spiritual well-being of their fellow Battle-Brothers."
   STR_HONOR_ARMOR_UC: "MK7 Honor Guard Armor"
-  STR_HONOR_ARMOR: "MK7 Honor Guard Armor" 
+  STR_HONOR_ARMOR: "MK7 Honor Guard Armor"
   STR_HONOR_ARMOR_UFOPEDIA: "Honor guards are like two extremes, solemn and taciturn in peace, but ferocious and unyielding in combat. They have achieved all awards and honors that a marine can, which puts them in a position of unrivaled knowledge."
-  STR_HONOR_ARMOR_RESEARCH: "Vanguard Armor Requisition" 
+  STR_HONOR_ARMOR_RESEARCH: "Vanguard Armor Requisition"
   STR_ASS_ARMOR_HONOR_UC: "MK7 Vanguard Armor"
   STR_ASS_ARMOR_HONOR: "MK7 Vanguard Armor"
   STR_ASS_ARMOR_HONOR_UFOPEDIA: "Vanguard Squads are most often used as rapid-reaction force, used to attack the weaker points in an enemy's line or to quickly reinforce endangered allies."
@@ -1395,9 +1395,9 @@
   STR_POWER_SUIT_UC: "Terminator Armor"
   STR_FLYING_SUIT_UC: "Terminator Assault Armor"
   STR_APOT_ARMOR: "MK7 Apothecary Armor"
-  STR_APOT_ARMOR_UC: "MK7 Apothecary Armor"  
+  STR_APOT_ARMOR_UC: "MK7 Apothecary Armor"
   STR_APOT_ARMOR_UFOPEDIA: "An Apothecary is a specialist Space Marine officer who possesses advanced biomedical and scientific training and who serves as a combat medic and research physician for his Chapter."
-  STR_FLYING_SUIT: "Terminator Assault Armor" 
+  STR_FLYING_SUIT: "Terminator Assault Armor"
   STR_CAPTAIN_SUIT: "Captain Armor"
   STR_CAPTAIN_UC: "Captain Armor"
   STR_CAPTAIN_ARMOR_UFOPEDIA: A Captain leads from the front. By his example shall his men know what it is to be of the Adeptus Astartes, and from his teachings shall they learn the trade of battle in the Emperor's name."
@@ -1453,7 +1453,7 @@
   STR_STORMHAWKR: "Stormhawk requisition"
   STR_CHAPTERARMY: "1st COMPANY"
   STR_CHAPTERARMYR: "Final Order"
-  STR_CHAPTERARMY_UFOPEDIA: "{NEWLINE} Deploy all of your transport vehicles with all your Chapters' bravest, ready to strike the heart of the traitors and xenos. The logistics of such a deployment slow it down, but overwhelming numbers are available for any assault." 
+  STR_CHAPTERARMY_UFOPEDIA: "{NEWLINE} Deploy all of your transport vehicles with all your Chapters' bravest, ready to strike the heart of the traitors and xenos. The logistics of such a deployment slow it down, but overwhelming numbers are available for any assault."
   STR_SPEED: "SPEED"
   STR_SPEEDC: "LANDSPEEDER"
   STR_SPEEDR: "Light Craft"
@@ -1479,7 +1479,7 @@
   STR_TTDEV: "THUNDERHAWK T. #"
   STR_TTSCT: "THUNDERHAWK T. &"
   STR_CHAOS_THUNDERHAWNK: "CHAOS THUNDERHAWK"
-  STR_TTCHAOS: "THUNDERHAWK T. CHAOS"  
+  STR_TTCHAOS: "THUNDERHAWK T. CHAOS"
   STR_AVENGER_UFOPEDIA: "{NEWLINE} The Thunderhawk Transporter is a logistical variant of the standard Thunderhawk gunship used by the Adeptus Astartes to carry Space Marine vehicles into combat."
   STR_BIKE_R: "Bike"
   STR_TANK_CANNON: "Assault Bike"
@@ -1515,7 +1515,7 @@
   SERVITOR_ARMOR_UC: "Servitor Robes"
   STR_CENTURION: "Centurion"
   CENT_ARMOR: "Centurion Armor"
-  STR_T_BOLTER_UFOPEDIA: "{NEWLINE} The Tarantula Sentry is used in a variety of roles, such as covering approaches to key positions, conducting watch over perimeter defences against surprise attacks, and defending landing sites and extraction routes."  
+  STR_T_BOLTER_UFOPEDIA: "{NEWLINE} The Tarantula Sentry is used in a variety of roles, such as covering approaches to key positions, conducting watch over perimeter defences against surprise attacks, and defending landing sites and extraction routes."
   STR_SERVITOR_UFOPEDIA: "{NEWLINE} A Servitor is a mindless cybernetic drone created from a fusion of human flesh and robotic technology used to carry out simple, manual tasks. Support Servitors can use their servo-arm to repair allied units in combat."
   STR_JOAN_UFOPEDIA: "{NEWLINE} After the successful mission, having proven her mettle in the heat of battle time-and-time-again, Joan Juno was singled out and awarded the title of Veteran Sergeant. She is now join our rank and is at your command."
   STR_TANK_CANNON_UFOPEDIA: "{NEWLINE} The Assault Bike is an extremely powerful machine, and is capable of propelling a fully armoured Space Marine at dizzying speeds while remaining responsive enough to perform a full-range of death-defying combat maneuvers."
@@ -1568,7 +1568,7 @@
   STR_GK_SOLDIER: "Grey Knight"
   STR_GK_SOLDIER_BA: "Brunus Antonius"
   STR_GK_SOLDIER_NS: "Hartimax Ottonius"
-  STR_GRETCHIN: "Gretchin"  
+  STR_GRETCHIN: "Gretchin"
   STR_MEKBOYZ: "Mek Boy"
   STR_ORK_NOBBURLY: "Burly Boy"
   STR_ORK_BOY: "Ork Boy"
@@ -1594,7 +1594,7 @@
   STR_NURGLE_CHAMP: "Nurgle Champion"
   STR_TZEENTCH_SOLDIER: "Rubric Marine"
   STR_NURGLE_SOLDIER: "Plague Marine"
-  STR_XENO_TERRORIST: "Purestrain Genestealer" 
+  STR_XENO_TERRORIST: "Purestrain Genestealer"
   STR_XENO_SOLDIER: "Genestealer Cultist"
   STR_XENO_LEADER: "Genestealer Cultist"
   STR_XENO_COMMANDER: "Genestealer Cult Priest"
@@ -1653,7 +1653,7 @@
   STR_REAPER_TERRORIST: "Chaos Juggernaut"
   STR_CYBERDISC_TERRORIST: "Winged Daemon"
   STR_SECTOPOD_TERRORIST: "Chaos Dreadnought"
-  STR_SECTOPOD2_TERRORIST: "Chaos Dreadnought"  
+  STR_SECTOPOD2_TERRORIST: "Chaos Dreadnought"
   STR_SILACOID_TERRORIST: "Chaos Daemon"
 #GK Corpse-------------------------------------------------
   STR_GREYK_CORPSE: "Grey Knight Corpse"
@@ -1686,7 +1686,7 @@
   STR_MUTONNC_CORPSE: "Nurgle Champion Corpse"
   STR_HAVOCTZ_CORPSE : "Rubric Havoc Corpse"
   STR_TZEENTCH_CORPSE: "Rubric Marine Corpse"
-  STR_TZEENTCHS_CORPSE: "Tzeentch Sorcerer Corpse"  
+  STR_TZEENTCHS_CORPSE: "Tzeentch Sorcerer Corpse"
   STR_NURGLES_CORPSE: "Plague Marine Corpse"
   STR_OBLITERATOR_CORPSE: "Obliterator Corpse"
   STR_WARPTALON_CORPSE: "Warptalon Corpse"
@@ -1701,7 +1701,7 @@
   STR_CHRYSSALID_CORPSE: "Slaanesh Daemonette Corpse"
   STR_REAPER_CORPSE: "Chaos Juggernaut Corpse"
   STR_SILACOID_CORPSE: "Daemon Corpse"
-  STR_CELATID_CORPSE: "Plaguebearer Corpse"  
+  STR_CELATID_CORPSE: "Plaguebearer Corpse"
   STR_SECTOPOD_CORPSE: "Chaos Dreadnought Corpse"
   STR_CYBERDISC_CORPSE: "Winged Daemon Corpse"
   STR_LORD_CORPSE: "Chaos Champion Corpse"
@@ -1742,13 +1742,13 @@
   STR_MUTON_ARMORNURGLEC: "Nurgle champion" #D
   MUTON_ARMORTZEENTCH: "Rubric Marine" #D
   MUTON_ARMORNURGLE: "Plague Marine" #D
-  MUTON_ARMORNURGLEA: "Plague Marine" #D  
+  MUTON_ARMORNURGLEA: "Plague Marine" #D
   GENE_ARMOR: "Genestealer"  #D
   CARNI_ARMOR: Carnifex" #D
   PREDATOR_ARMOR: "Predator Main Turret" #D
   PREDATOR_SIDE_ARMOR: "Predator Heavy Bolter" #D
   OBLITERATOR_ARMOR: "Obliterator" #D
-  STR_SNAKEMAN_ARMOR2: "Traitor Guardsman" #D 
+  STR_SNAKEMAN_ARMOR2: "Traitor Guardsman" #D
   SNAKEMAN_ARMORN: "Traitor Guardsman" #D
   SNAKEMAN_ARMORH: "Traitor Guardsman" #D
   SNAKEMAN_ARMORC: "Traitor Guardsman" #D
@@ -1763,12 +1763,12 @@
   STR_MUTON_ARMOR0: "Chaos Traitor"           #ETHEREAL_SOLDIER
   STR_MUTON_ARMOR1: "Chaos Sorcerer"          #ETHEREAL_LEADER
   MUTON_ARMOR5: "Chaos Champion" #D
-  STR_MUTON_ARMORB: "Khorne Berserker"        #KHRONE MUTON_ARMORB 
+  STR_MUTON_ARMORB: "Khorne Berserker"        #KHRONE MUTON_ARMORB
   STR_CELATID_ARMOR: "Plaguebearer"            #D
   STR_REAPER_ARMOR: "Chaos Juggernaut" #D
   CYBERDISC_ARMOR: "Winged Daemon"    #D
   SECTOPOD_ARMOR: "Chaos Dreadnought" #D
-  SECTOPOD_ARMOR2: "Chaos Dreadnought" #D   
+  SECTOPOD_ARMOR2: "Chaos Dreadnought" #D
   STR_SILACOID_ARMORT: "Chaos Daemon" #D
   BEHEMOTH_ARMOR: "Behemoth"
 #UFOPEDIA
@@ -1874,13 +1874,13 @@
   STR_UFO_NAVIGATION: "Warp Drives"
   STR_UFO_NAVIGATION_UFOPEDIA: "Once a spacecraft activates its Warp-Drives, it is plunged into a dimension very different from the material universe. It is convenient to imagine Warpspace as consisting of a relatively dense, almost liquid energy, devoid of stars, light and life as it is commonly known. Once within Warpspace, a voidship may move by means of its main Newtonian drives, following powerful eddies and currents in the Warp, eventually reaching a point in the Warp corresponding to a destination in realspace."
   STR_UFO_CONSTRUCTION: "Ceramite Plates"
-  STR_UFO_CONSTRUCTION_UFOPEDIA: "Ceramite is a form of heat and shock-resistant ceramic material that is widely used throughout the Imperium of Man. High-quality ceramite is used in the higher-quality types of Imperial armour, including Carapace Armour, Power Armour and Terminator Armour. Ceramite conducts almost no heat, making it especially heat-resistant and effective protection against energy-based weapons. Low-quality ceramite is used to mass-produce cheap Flak Armour for the Imperial Guard."  
+  STR_UFO_CONSTRUCTION_UFOPEDIA: "Ceramite is a form of heat and shock-resistant ceramic material that is widely used throughout the Imperium of Man. High-quality ceramite is used in the higher-quality types of Imperial armour, including Carapace Armour, Power Armour and Terminator Armour. Ceramite conducts almost no heat, making it especially heat-resistant and effective protection against energy-based weapons. Low-quality ceramite is used to mass-produce cheap Flak Armour for the Imperial Guard."
   STR_ELERIUM_115: "Promethium"
   STR_ELERIUM_115_UFOPEDIA: "{NEWLINE} Promethium is a general term used for any form of combustible fuel in the Imperium of Man, including the various isotopes of hydrogen used as both fuel and reaction mass in Imperial Plasma Generators and starship engines. The term promethium also refers more specifically to the substance that is the 41st Millennium's equivalent of napalm, a highly volatile incendiary gel derived in part from refined hydrocarbons which immediately ignites on contact with oxygen and is used in Imperial Flamer Weapons."
   STR_MT: "Chapter Mid-tier Requisitions" #RESEARCH
   STR_ALIEN_HABITAT: "Imperial Honor Badge"
   STR_ALIEN_HABITAT_UFOPEDIA: "Imperial Honor Badge"
-  STR_ALIEN_FOOD: "Warp Stones"  
+  STR_ALIEN_FOOD: "Warp Stones"
   STR_ALIEN_FOOD_UFOPEDIA: "The main reason the never-ending tides of the Warp's madness is upon us. Those stones bring forth Daemons, creatures that can normally exist only within the Immaterium, unless certain conditions are met in the material realm. The Immaterium is what empowers the daemonic and mortal servants alike of the four Dark Gods."
   STR_ALIEN_REPRODUCTION: "Stasis Tombs"
   STR_ALIEN_REPRODUCTION_UFOPEDIA: "Essentially a time-warp generator, a stasis tomb creates breaches in the normal flow of space-time continuum within their area of effect, slowing down massively the progress of causality. The closer one is to the centre of the stasis-field, the slower time appears to move; a single moment can take so long to play out inside a stasis field that it appears frozen to observers outside the affected area. Because the contents of a stasis field are divorced from the normal passage of time, it is effectively impossible to alter the conditions of the inside of the field in any way."
@@ -1889,7 +1889,7 @@
   STR_EXAMINATION_ROOM: "Chaos Shrine"
   STR_EXAMINATION_ROOM_UFOPEDIA: "Shrines that amplify the influence of the Chaos Gods over nearby worshipers"
   STR_ALIEN_SURGERY: "Chaos Sacrifices"
-  STR_ALIEN_SURGERY_UFOPEDIA: "ART by TD-Vice {NEWLINE}Chaos forces are offering sacrifices and physically preparing bodies to host the daemonic beings of chaos. The Emperor demands this heresy to cease at all costs." 
+  STR_ALIEN_SURGERY_UFOPEDIA: "ART by TD-Vice {NEWLINE}Chaos forces are offering sacrifices and physically preparing bodies to host the daemonic beings of chaos. The Emperor demands this heresy to cease at all costs."
   STR_ALIEN_ORIGINS: "Warp Origins"
   STR_ALIEN_ORIGINS_UFOPEDIA: "The darkness of the Warp has enveloped this chapter world, and the fleet has been cut off from any reinforcements. It is impossible for outside aid to reach us. Only the Emperor can protect us now."
   STR_THE_MARTIAN_SOLUTION: "Final Solution"
@@ -1902,7 +1902,7 @@
   STR_ALIENS_ONLY: "Chapter Corruption"
   STR_ALIENS_ONLY_UFOPEDIA: "The Chapter is no longer pure, we have diverted from the Codex Astartes dogmas! None of the planetary regions under our control approves; as a result, they are all unpleased with your actions! However, our Brothers can now use and produce tainted weapons of the traitor legions."
   STR_CHAOS_OR_BUST: "Total Control"
-  STR_CHAOS_OR_BUST_UFOPEDIA: "Change of Plans! We must prove by force that this planet is ours and no one else. End the Main threat that is looming above us, take down the Inquisition Fire base, their presence must end so nothing can stand in out path"  
+  STR_CHAOS_OR_BUST_UFOPEDIA: "Change of Plans! We must prove by force that this planet is ours and no one else. End the Main threat that is looming above us, take down the Inquisition Fire base, their presence must end so nothing can stand in out path"
   STR_ALIEN_ALLOYS: "Adamantium Component"
   STR_ALIEN_ALLOYS_UFOPEDIA: "Adamantium is perhaps the strongest substance known to the Imperium, nigh impervious to attacks from most known weapons. It is often used in conjunction with plasteel and ceramite to produce items that require incredible tensile strength to wield."
 #CORPSE TEXT
@@ -1917,10 +1917,10 @@
 #CUTSCENES TEXT
   STR_GAME_OVER_1: "Your fight for this planet is over. {NEWLINE}{NEWLINE} Your forces and your allies have succumbed to traitors and xenos. All survivors corrupted and sacrificed"
   STR_GAME_OVER_2: "The Chaos forces brought through the Warp took over the planet for their deviant purposes. {NEWLINE}{NEWLINE} The Imperium's presence on this planet have cease to exist"
-  STR_VICTORY_1: "Traitors and Xenos falter under the might of the Emperor's finest. {NEWLINE}{NEWLINE}Your mission was successful. "   
+  STR_VICTORY_1: "Traitors and Xenos falter under the might of the Emperor's finest. {NEWLINE}{NEWLINE}Your mission was successful. "
   STR_VICTORY_2: "Through fury and zeal we have eliminated the threat that was upon us."
   STR_VICTORY_3: "Our Chapter brothers have stood fast!"
-  STR_VICTORY_4: "No subject of the Emperor shall fall. {NEWLINE}{NEWLINE}Your chapter made sure this planet remains safe." 
+  STR_VICTORY_4: "No subject of the Emperor shall fall. {NEWLINE}{NEWLINE}Your chapter made sure this planet remains safe."
   STR_VICTORY_5: "The Imperium of Man will stand strong in many other worlds in the universe knowing that no planet protected by your chapter will ever succumb ..."
   STR_YOU_HAVE_FAILED: "You have failed to protect a core Imperium planet from the invading forces of Chaos. One by one, the allies of the Imperium defect and cut off the support to your forces"
 
@@ -2144,7 +2144,7 @@
 
   STR_PSYKER_REQUISITION: "Sanctioned Psyker Requisition"
   STR_UNPACK_PSYKER_REQUISITION: "Accept Psyker Requisition"
-  
+
   STR_PSYKER_ARMOR: "Psyker's Robes"
   STR_PSYKER_ARMOR_UFOPEDIA: "Sanctioned Psykers are ordained as a servant of the Imperium of Man, possessing rare characteristic of the willpower necessary to control their abilities. Despite their varied abilities, all have baseline skills in disabling foes with their power."
   STR_PSYKER_STAFF: "Psyker's Staff"
@@ -2162,7 +2162,7 @@
 
   STR_DIVINER: "Diviner"
   STR_DIVINER_UFOPEDIA: "Diviners seek to discern the hidden past and know the course of future events. Their abilities allow them to look into the Immaterium to find the answers they seek. In combat they seem to be unable to miss and the Diviner can spot foes farther than many scanning devices."
-  
+
   STR_PYROMANCER: "Pyromancer"
   STR_PYROMANCER_UFOPEDIA: "Pyromancy is the art of creating and controlling fire. While practitioners of the discipline may be said to poses a certain mania, few question the effectiveness of a master Pyromancer on the battlefield."
   STR_PYROMANCER_STAFF: "Pyromancer's Staff"
@@ -2355,7 +2355,7 @@
   STR_PDF_ASSAULT_SITE: "Chaos Outpost"
   STR_PDF_ASSAULT_TITLE: "Support PDF Assault"
   STR_PDF_ASSAULT_DESCRIPTION: "The Planetary Defense Force has identified a weakness in the battle lines of the Forces of Chaos. A squad of PDF troops has been dispatched to assault a Chaos Outpost that has no reinforcements in the immediate area. Support their offensive with your troops, ensuring this opportunity is exploited to the advantage of the Imperium!"
- 
+
   STR_MARINE_ASSAULT: "Support Battle-Brothers"
   STR_MARINE_ASSAULT_UFOPEDIA: "{NEWLINE} SUPPORTING SPACE MARINE OFFENSIVES: {NEWLINE}The Space Marines on-planet may request support of your Imperial Guard Regiment to hold a flank or tie up Chaos Forces during an offensive. It is imperitive that you not deny their request.{NEWLINE}{NEWLINE} OBJECTIVE:{NEWLINE}Support the Space Marines' assault on a Chaos Outpost, assisting them in the destruction of all hostile forces."
   STR_MARINE_ASSAULT_ALERT: "Space Marines Assaulting Chaos Outpost!"
@@ -2467,7 +2467,7 @@
   STR_THUNDER_CANNON: "Battle Cannon"
   STR_THUNDER_CANNON_UFOPEDIA: "{NEWLINE} A high caliber cannon that can be fired from the air at the most vulnerable parts of an enemy position or for clearing an area to land troops. {NEWLINE} Can only be mounted on a Thunderhawk."
 
-#*** CITIES ******************************************************************  
+#*** CITIES ******************************************************************
   STR_NEW_YORK: "Guard Outpost"
   STR_WASHINGTON: "Guard Outpost"
   STR_LOS_ANGELES: "Guard Outpost"
@@ -2513,9 +2513,9 @@
   STR_SINGAPORE: "Guard Outpost"
   STR_JAKARTA: "Guard Outpost"
   STR_SHANGHAI: "Guard Outpost"
-  STR_HONG_KONG: "Guard Outpost"  
+  STR_HONG_KONG: "Guard Outpost"
   STR_NOVOSIBIRSK: "Guard Outpost"
-  STR_CANBERRA: "Guard Outpost"  
+  STR_CANBERRA: "Guard Outpost"
   STR_WELLINGTON: "Guard Outpost"
   STR_MELBOURNE: "Guard Outpost"
   STR_PERTH: "Guard Outpost"
@@ -2531,9 +2531,9 @@
   STR_CENTRAL_ASIA: "Central Princeps"
   STR_SOUTH_EAST_ASIA: "South Princeps"
   STR_SIBERIA: "Auriga"
-  STR_AUSTRALASIA: "Thracian"  
-  STR_PACIFIC: "Magister Ocean"  
-  STR_NORTH_ATLANTIC: "Decemviri Ocean"  
+  STR_AUSTRALASIA: "Thracian"
+  STR_PACIFIC: "Magister Ocean"
+  STR_NORTH_ATLANTIC: "Decemviri Ocean"
   STR_SOUTH_ATLANTIC: "Novus Ocean"
   STR_INDIAN_OCEAN: " Princeps Ocean"
 #*** NATIONS ******************************************************************
@@ -2555,7 +2555,7 @@
   STR_CANADA: "O Sector"
   STR_COUNCIL_IS_GENERALLY_SATISFIED: "Most of the planet's allied sectors of are pleased with our intervention."
   STR_COUNCIL_IS_VERY_PLEASED: "The allied sectors of this world are pleased with our divine response! Keep up the Emperor's work."
-  STR_COUNCIL_IS_DISSATISFIED: "The allied sectors of this world are dissatisfied. Improve your performance or risk losing our favor on this planet." 
+  STR_COUNCIL_IS_DISSATISFIED: "The allied sectors of this world are dissatisfied. Improve your performance or risk losing our favor on this planet."
   STR_YOU_HAVE_NOT_SUCCEEDED: "The allied sectors of the world have lost belief in your ability to respond to the enemies of the Imperium."
   STR_COUNTRY_IS_PARTICULARLY_PLEASED: "{0} is particularly pleased and has agreed to increase requisition points."
   STR_COUNTRIES_ARE_PARTICULARLY_HAPPY: "{0} are particularly pleased and have agreed to increase requisition points."
@@ -2601,12 +2601,12 @@
   MAP_DESERTMOUNT: "Desert Mountain"
 
 #*** HELP *********************************************************************
-  STR_HELP: ASSISTANCE 
+  STR_HELP: ASSISTANCE
   STR_HELP1: "Assistance Overview"
-  STR_HELP2: "Assistance Overview"  
+  STR_HELP2: "Assistance Overview"
   STR_HELP_INTRO: "{NEWLINE} This section of the Codex provides basic tactical insight"
   STR_HELP_MAP: "Cartography"
-  STR_EMPTY: ""  
+  STR_EMPTY: ""
   STR_HELP2: "Imperial Honor Badge"
   STR_HELP_HONOR: "{NEWLINE} In order to obtain an honor badge, our forces need to accomplish several missions.  {NEWLINE} Taking down a enemy base, clearing a derelict hulk, and completing side operations are prerequisites for gaining honor badges"
   STR_HELP3: "Combined Interception"
@@ -2700,25 +2700,25 @@
   #STR_GUARD_RANK_3: "Sergeant"
 
 #*** STRATEGY *****************************************************************
-  STR_TATICAL: "Tactical Strategy"
-  STR_ASSAULT: "Assault Strategy"
-  STR_DEVASTATOR: "Devastator Strategy"
-  STR_SCOUT: "Scout Strategy"
-  STR_IGS: "Imperial Guard"
+  STR_TATICAL: "Тактическая Стратегия"
+  STR_ASSAULT: "Штурмовая Стратегия"
+  STR_DEVASTATOR: "Стратегия Опустошителей"
+  STR_SCOUT: "Разведывательная стратегия"
+  STR_IGS: "Имперская Гвардия"
   #STR_IMPERIAL_GUARD_OPERATIONS: "Imperial Guard Strategy"
-  STR_STRATEGY: "STRATEGY"
-  STR_STRATEGY_INTRO : "Strategy Overview"
-  STR_STRATEGY_TEXT_INTRO: "{NEWLINE} This section of the Codex displays and details all strategies our forces can follow. {NEWLINE} Once one is chosen, our efforts will be focused on the goal of that specific strategy and the others will not be available."
-  STR_TATICAL_TEXT: "{NEWLINE} Being prepared for all situations is a key factor in the campaign.  {NEWLINE} Our units will have well balanced gear, suitable for all situations."
-  STR_ASSAULT_TEXT: "{NEWLINE} Strike with all our might so we can leave the enemy without response.  {NEWLINE} Main focus on melee combat weapons and high mobility armor for direct assault."
-  STR_DEVASTATOR_TEXT: "{NEWLINE} Heavy support platforms and heavy weapons provide the main focus. {NEWLINE} Use all the firepower we can muster, even at the cost of mobility."
-  STR_SCOUT_TEXT: "{NEWLINE} Detecting the enemy and performing surgical strikes are our the main priorities.  {NEWLINE} Focus on training new units and leaving them ready to engage in high risk operations from the beginning of the campaign."
-  STR_IGS_TEXT: "{NEWLINE} Archive superiority in numbers, overwhelm the opponent with the size of your forces. {NEWLINE} Undertake the training and specialization of the Imperial Guard's finest soldiers."
+  STR_STRATEGY: "СТРАТЕГИЯ"
+  STR_STRATEGY_INTRO : "Обзор стратегий"
+  STR_STRATEGY_TEXT_INTRO: "{NEWLINE} Этот раздел Кодкса отображает и описывает все стратегии, которым могут могут следовать наши силы. {NEWLINE} Когда одна из их будет выбрана, наши усилия будут сосредоточены на достижении целей этой конкретной стратегии и другие стратегии не будут доступны."
+  STR_TATICAL_TEXT: "{NEWLINE} Быть готовым к любым ситация - ключевой фактор военной кампании. {NEWLINE} Наши боевые единицы будут иметь хорошо сбалансированное снаряжение, подходящее для любых ситуаций."
+  STR_ASSAULT_TEXT: "{NEWLINE} Атакуя со всей силы мы лишим врага возможности предпринять что-либо в ответ. {NEWLINE} Основной внимание будет уделяться оружию ближнего боя и высокомобильныой штурмовой броне."
+  STR_DEVASTATOR_TEXT: "{NEWLINE} Основной внимание сосредоточено на тяжелых платформах поддержи и тяжелом вооружении. {NEWLINE} Используйте всю доступную нам огневую мощь, даже ценой мобильности."
+  STR_SCOUT_TEXT: "{NEWLINE} Обнаружение противника и выполнение хирургически точных атак - таковы наши основные приоритеты. {NEWLINE} Сосредоточьтесь на тренировке новых боевых единиц и подготовьте их к участию в рискованных операциях с самого начала кампании."
+  STR_IGS_TEXT: "{NEWLINE} Достигните преимущества в количестве, сокрушите противника числом своих войск. {NEWLINE} Возьмитесь за тренировку и специализацию лучших солдат Имперской Гвардии."
 
   STR_GAME_START: "(Started the Game)"
   STR_CHAPTER_PURITY: "(Uncontaminated by Chaos)"
 
-  STR_PICK_STRATEGY: "Strategy Selection"
+  STR_PICK_STRATEGY: "Выбор Стратегии"
   STR_PICK_STRATEGY_UFOPEDIA: "{NEWLINE}   Force Commander,{NEWLINE}{NEWLINE}Please have your research adepts log the composition of your forces so proper requisitons can commence. Only one can be selected.{NEWLINE}{NEWLINE}Space Marine requisitions are selected by a Strategy: Assault, Devastator, Scout, or Tactical.{NEWLINE}{NEWLINE}Imperial Guard Requisitions are selected by the Operations logistics project.{NEWLINE}{NEWLINE}More advanced requisitions can be made once you have your adepts apply for access to specialized weaponry and support wargear, and have proven a source of manufacturing materials is available on-planet."
 
   STR_INSTAL_MOD: "Please download and install Imperial Guard Mod"
@@ -2748,11 +2748,11 @@
   STR_HELLT_DATA: "Hell Talon Scan Data"
   STR_HELLT_UFOPEDIA: "{NEWLINE} A sleek and deadly dagger-shaped aircraft held aloft by vector-thrusting jet engines which make it incredibly fast and impressively nimble. The Hell Talon is a swift and ruthless killer both in the atmosphere of a planet and in the void of space."
   STR_INTERCEPTOR2: "Hell Blade"
-  STR_INTERCEPTOR2_UFOPEDIA: "{NEWLINE} The Hell Blade is designed to swiftly achieve air superiority for Chaos raiding forces and sweep enemy aircraft from the skies, clearing the way for heavier aircraft, such as the Harbinger, to pound ground defences and allow a Chaos Space Marine onslaught to begin."  
+  STR_INTERCEPTOR2_UFOPEDIA: "{NEWLINE} The Hell Blade is designed to swiftly achieve air superiority for Chaos raiding forces and sweep enemy aircraft from the skies, clearing the way for heavier aircraft, such as the Harbinger, to pound ground defences and allow a Chaos Space Marine onslaught to begin."
   STR_SMALL_SCOUT2: "Variant Ship"
   STR_SMALL_SCOUT: "Hell Blade"
   STR_SMALL_SCOUT_DATA: "Hell Blade Scan Data"
-  STR_SMALL_SCOUT_UFOPEDIA: "{NEWLINE} The Hell Blade is designed to swiftly achieve air superiority for Chaos raiding forces and sweep enemy aircraft from the skies, clearing the way for heavier aircraft, such as the Harbinger, to pound ground defences and allow a Chaos Space Marine onslaught to begin."  
+  STR_SMALL_SCOUT_UFOPEDIA: "{NEWLINE} The Hell Blade is designed to swiftly achieve air superiority for Chaos raiding forces and sweep enemy aircraft from the skies, clearing the way for heavier aircraft, such as the Harbinger, to pound ground defences and allow a Chaos Space Marine onslaught to begin."
   STR_MEDIUM_SCOUT: "Transport Ship"
   STR_MEDIUM_SCOUT_CULTISTS_MARINES: "Transport Ship - Cultists"
   STR_MEDIUM_SCOUT_TRAITOR_GUARD_MARINES: "Transport Ship - Traitor Guard"
@@ -2800,7 +2800,7 @@
   STR_ALIEN_RETALIATION: "Retaliation"
   STR_ALIEN_SUPPLY: "Supply"
   STR_GUARD_PATROL_UFOPEDIA: "{NEWLINE}"
-  STR_ALIEN_PATROL_UFOPEDIA: "{NEWLINE}"  
+  STR_ALIEN_PATROL_UFOPEDIA: "{NEWLINE}"
   STR_ALIEN_INTERCEPTION_UFOPEDIA: "{NEWLINE}"
   STR_ALIEN_RESEARCH_UFOPEDIA: "{NEWLINE} They attempted to spread more warp  so they can continue to take this planet by madness"
   STR_ALIEN_HARVEST_UFOPEDIA: "{NEWLINE} They attempted to spread Plague though all the sectors, so we all can rot on foul and decay of Nurgle. Our chapter no allow it to happen"
