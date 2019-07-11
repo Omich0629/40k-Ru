@@ -613,7 +613,7 @@
   STR_TU: "ОД"
 #*** MISC *********************************************************************
   STR_OPENXCOM: "40000 MOD"
-  STR_UNABLE_TO_USE_ALIEN_ARTIFACT_UNTIL_RESEARCHED: "Испорчен варпом"
+  STR_UNABLE_TO_USE_ALIEN_ARTIFACT_UNTIL_RESEARCHED: "Осквернен варпом"
   STR_XCOM_BASE_CANNOT_BE_BUILT: "Невозможно разместить базу под водой"
   STR_XCOM_AGENTS_HAVE_LOCATED_AN_ALIEN_BASE_IN_REGION: "Наши библиарии обнаружили присутствие Хаоса на планете"
   STR_XCOM: "Империум"
@@ -814,11 +814,11 @@
   STR_MARS_CYDONIA_ENTRANCE: "ПОСЛЕДНИЙ ШТУРМ: ВХОД"
   STR_MARS_CYDONIA_ENTRANCE_GUARD: "ПОСЛЕДНИЙ ШТУРМ: ВХОД"
   STR_FINALENTRANCE_TITLE: " Последний Штурм: Вход"
-  STR_FINALENTRANCE_DESC: " Brothers now that we gain entrace, your transports will traverse this blackened hellscape to face the foe and gain entrance to the compound underneath, so we can deliver our final blow! Though some of your support forces are have been lost, we shall continue to strike the traitors down with all your might! Destroy all the forces of Chaos in our Path. Once the entrance is ours my Brothers, we shall confront the center of the warp! For the Emperor!"
+  STR_FINALENTRANCE_DESC: "Братья, скоро этот адский пейзаж останется позади, транспорт доставит нас ко входу в логово противника, где мы наконец сможем нанести решающий удар! Хоть часть наших сил поддержки была потеряна, мы продолжим атаку и покажем предателям всю нашу мощь! Уничтожьте всех, кто посмеет встать у нас на пути! За Императора!"
   STR_MARS_CYDONIA_LANDING: "ПОСЛЕДНИЙ ШТУРМ: ВЫСАДКА"
   STR_MARS_CYDONIA_LANDING_GUARD: "ПОСЛЕДНИЙ ШТУРМ: ВЫСАДКА"
   STR_FINALLAND_TITLE: "Последний Штурм: Высадка"
-  STR_FINALLAND_DESC: "Accept these final orders, Brothers! We approach the source of the warp storm - here dwell the most twisted Chaos Traitors. But let their might pale before our righteous fury! Your Army will breach these walls of the Temple of Chaos. Gain entrance to the compound! Steel yourselves though, for what you shall see none have seen before - go armed for the fiercest combat yet. All that has gone before is but a prelude to this assault. Destroy all the forces of Chaos you encounter."
+  STR_FINALLAND_DESC: "Братья, мы приближаемся к источнику варп-шторма, месту обитания самых отвратительных порождений Хаоса. Наш приказ таков: сломить стены Храма Хаоса и проникнуть внутрь. Готовьтесь к жесточайшему сражению. Все, с чем мы встречались ранее, было лишь подготовкой к этой битве. Уничтожьте все силы Хаоса, с которыми столкнетесь. За Императора!"
   #STR_FINALLAND_DESC: "Accept your orders! We now know the location of the warp source. Here dwells the most twisted and warped Chaos traitors. But let their might pale before our righteous fury, as well it shall, for now we carry the battle to them. It is a vile location on which you shall fight, reeking with the foulness of hell itself. Steel yourselves! What you shall see none have seen before. You travel the very landscape of Hell! Your transports shall bear your forces over the black barren land to face our foe, but let not its sands deter your course to breach the very doors of the Chaos Temple and carry our crusade to within its hellish walls. Those walls cannot withstand our fury. For within the Temple of Chaos we shall find passage to the second stage - go armed for the fiercest combat yet. Destroy all other forces of Chaos you encounter. Deploy all available resources. Fight fiercely, but be wise in your attacks, for once the entrance is ours we shall need all our strength. Once the entrance is ours, my Brothers, we shall confront the center of the warp!"
   STR_FINAL_TITLE: "Последний Штурм"
   STR_FINAL_DESC: "My Valiant Brothers! Far we have come, Brother Warriors, and now this final distance we must go. The entrance to the compound underneath has been breached and now this opening shall lead us to the very lair of the warp stone and the stronghold of its dark effects. Here we shall go to face the Chaos Traitors in their place of hiding. They shall not survive our wrath, my Brothers! Remember, our struggle is righteous and our strength is unmatched. We go to face the most vile Traitor Marines and remove their taint from this planet. Death before dishonor, Brothers! Fail not the Emperor."
@@ -828,12 +828,12 @@
   STR_ALIEN_WAR_ALERT: "БИТВА В РАЗГАРЕ"
   STR_ALIEN_WAR_DESCRIPTION: "Force Commander, Traitor Marines have seized the battlefield advantage in this sector. Recapture it with all haste and destroy all enemies present. Be wary! The Chaos Forces appeared without warning, and we have no sense of their forces' strength. A support Stormtalon has been dispatched to provide cover fire for our forces. Destroy the enemy and make this triumph ours. Service to the Imperium!"
   STR_WAR_SITE: "Поле боя"
-  STR_COMPLETEMAP: "Завершить Сбор Информа"
-  STR_COMPLETRELIC: "Собрать Реликвию"
+  STR_COMPLETEMAP: "Завершение Сбора Информации"
+  STR_COMPLETRELIC: "Сборка Реликвию"
 # HANGAR MISSION
   STR_HANGAR: "Ангар"
   STR_HANGAR_TITLE: "АНГАР"
-  STR_HANGAR_DESCRIPTION: "Test your craft's deployment in the hangar. The craft will immediately be returned to base with all units on board after one turn or upon aborting."
+  STR_HANGAR_DESCRIPTION: "Проверьте размещение вашей техники в ангаре. Миссии техника будет немедленно возвращена на базу вместе со всеми боевыми единицами на борту по прошествии одного хода или в случае прерывания миссии."
 # MISSIONS 1 -----------------------------------------------
   STR_TRAIN_MISSION: "Тренировочная миссия"
   STR_TRAIN_MISSION_TITLE: "Тренировочная миссия"
@@ -1612,7 +1612,7 @@
   STR_HAVOC: "Опустошитель Хаоса"
   STR_HAVOC_NURGLE: "Чумной Опустошитель"
   STR_HAVOC_TZEENTCH: "Проклятый Опустошитель"
-  STR_NURGLE_TERMINATOR: "Чемной Термнатор"
+  STR_NURGLE_TERMINATOR: "Чумной Термнатор"
   STR_NURGLE_CHAMP: "Чемпион Нургла"
   STR_TZEENTCH_SOLDIER: "Проклятый Десантник"
   STR_NURGLE_SOLDIER: "Чумной Десантник"
@@ -1738,88 +1738,88 @@
 
 #RESEARCH
 #ARMOR FOES
-  STR_GREYKNIGHT_ARMOR: "Grey Knight"
-  STR_GREYKNIGHT_UC: "Grey Knight Armor"
-  STR_GROTS_ARMOR: "Gretchin"
-  STR_ORK_ARMORL: "Ork Boy"
-  STR_ORK_ARMORM: "Ork 'ard Boy"
-  STR_ORK_ARMORH: "Ork Nob"
-  STR_ELDAR_ARMOR: "Eldar Guardian" #D
-  STR_ELDAR_ARMOR2: "Eldar Banshee" #D
-  STR_ELDAR_ARMOR3: "Eldar Seer" #D
-  STR_ELDAR_PLAT_ARMOR: "Grav Platform" #D
-  MUTON_ARMORSLAANESH: "Noise Marine" #D
-  MUTON_ARMORHAVOCS: "Noise Marine Havoc" #D
-  STR_CHAOS_SENTINEL_ARMOR: "Chaos Sentinel" #D
-  STR_FLAMER_ARMOR: "Tzeentch Flamer" #D
-  MUTON_ARMORTZS: "Tzeentch Sorcerer Corpse" #D
-  STR_ADEPTAS_TZEENTCH: "Chaos Rubric Sister" #D
+  STR_GREYKNIGHT_ARMOR: "Серый Рыцарь"
+  STR_GREYKNIGHT_UC: "Броня Серого Рыцаря"
+  STR_GROTS_ARMOR: "Гретчин"
+  STR_ORK_ARMORL: "Орк"
+  STR_ORK_ARMORM: "Бронированный Орк"
+  STR_ORK_ARMORH: "Ноб Орков"
+  STR_ELDAR_ARMOR: "Страж Эльдаров" #D
+  STR_ELDAR_ARMOR2: "Баньши Эльдаров" #D
+  STR_ELDAR_ARMOR3: "Провидец Эльдаров" #D
+  STR_ELDAR_PLAT_ARMOR: "Грави-Платформа" #D
+  MUTON_ARMORSLAANESH: "Шумовой Десантник" #D
+  MUTON_ARMORHAVOCS: "Шумовой Опустошитель" #D
+  STR_CHAOS_SENTINEL_ARMOR: "Страж Хаоса" #D
+  STR_FLAMER_ARMOR: "Огневик Тзинча" #D
+  MUTON_ARMORTZS: "Труп Огневика Тзинча" #D
+  STR_ADEPTAS_TZEENTCH: "Проклятая Сестра" #D
   #STR_SLAANESH_SISTER: "Chaos Corrupted Sister" #D
-  STR_ADEPTAS_KHORNE: "Chaos Blood Sister" #D
-  STR_ADEPTAS_NURGLE: "Chaos Plague Sister" #D
-  MUTON_ARMORHAVOC: "Chaos Havoc" #D
-  MUTON_ARMORHAVOCN: "Plague Havoc" #D
-  MUTON_ARMORHAVOCT: "Rubric Havoc" #D
-  STR_MUTON_ARMORNURGLE: "Plague Terminator" #D
-  STR_MUTON_ARMORNURGLEC: "Nurgle champion" #D
-  MUTON_ARMORTZEENTCH: "Rubric Marine" #D
-  MUTON_ARMORNURGLE: "Plague Marine" #D
-  MUTON_ARMORNURGLEA: "Plague Marine" #D
-  GENE_ARMOR: "Genestealer"  #D
-  CARNI_ARMOR: Carnifex" #D
-  PREDATOR_ARMOR: "Predator Main Turret" #D
-  PREDATOR_SIDE_ARMOR: "Predator Heavy Bolter" #D
-  OBLITERATOR_ARMOR: "Obliterator" #D
-  STR_SNAKEMAN_ARMOR2: "Traitor Guardsman" #D
-  SNAKEMAN_ARMORN: "Traitor Guardsman" #D
-  SNAKEMAN_ARMORH: "Traitor Guardsman" #D
-  SNAKEMAN_ARMORC: "Traitor Guardsman" #D
-  STR_CHRYSSALID_ARMOR: "Slaanesh Daemonette"  #STR_CHRYSSALID_TERRORIST
-  STR_MUTON_ARMOR2: "Chaos Terminator"        #STR_MUTON_SOLDIER
-  STR_FLOATER_ARMOR0: "Chaos Raptor" #D
-  FLOATER_ARMOR2: "Chaos Raptor" #D
-  STR_WARPTALON_ARMOR: "Warptalon"            #D
-  STR_SECTOID_ARMOR0: "Cultist"               #STR_SECTOID
-  STR_CULTIST_ARMOR: "Cultist"                #STR_SECTOID_ENGINEER
-  STR_SECTOID_ARMORP: "Cultist High Priest"   #STR_SECTOID_COMMANDER
-  STR_MUTON_ARMOR0: "Chaos Traitor"           #ETHEREAL_SOLDIER
-  STR_MUTON_ARMOR1: "Chaos Sorcerer"          #ETHEREAL_LEADER
-  MUTON_ARMOR5: "Chaos Champion" #D
-  STR_MUTON_ARMORB: "Khorne Berserker"        #KHRONE MUTON_ARMORB
-  STR_CELATID_ARMOR: "Plaguebearer"            #D
-  STR_REAPER_ARMOR: "Chaos Juggernaut" #D
-  CYBERDISC_ARMOR: "Winged Daemon"    #D
-  SECTOPOD_ARMOR: "Chaos Dreadnought" #D
-  SECTOPOD_ARMOR2: "Chaos Dreadnought" #D
-  STR_SILACOID_ARMORT: "Chaos Daemon" #D
-  BEHEMOTH_ARMOR: "Behemoth"
+  STR_ADEPTAS_KHORNE: "Кровавая Сестра" #D
+  STR_ADEPTAS_NURGLE: "Чумная Сестра" #D
+  MUTON_ARMORHAVOC: "Опустошитель Хаоса" #D
+  MUTON_ARMORHAVOCN: "Чумной Опустошитель" #D
+  MUTON_ARMORHAVOCT: "Проклятый Опустошитель" #D
+  STR_MUTON_ARMORNURGLE: "Чумной Терминатор" #D
+  STR_MUTON_ARMORNURGLEC: "Чемпион Нургла" #D
+  MUTON_ARMORTZEENTCH: "Проклятый Десантник" #D
+  MUTON_ARMORNURGLE: "Чумной Десантник" #D
+  MUTON_ARMORNURGLEA: "Чумной Десантник" #D
+  GENE_ARMOR: "Генокрад"  #D
+  CARNI_ARMOR: "Карнифекс" #D
+  PREDATOR_ARMOR: "Основная Турель 'Хищника'" #D
+  PREDATOR_SIDE_ARMOR: "Тяжелый Болтер 'Хищника'" #D
+  OBLITERATOR_ARMOR: "Облитератор" #D
+  STR_SNAKEMAN_ARMOR2: "Гвардеец-Предатель" #D
+  SNAKEMAN_ARMORN: "Гвардеец-Предатель" #D
+  SNAKEMAN_ARMORH: "Гвардеец-Предатель" #D
+  SNAKEMAN_ARMORC: "Гвардеец-Предатель" #D
+  STR_CHRYSSALID_ARMOR: "Демонетка Слаанеш"  #STR_CHRYSSALID_TERRORIST
+  STR_MUTON_ARMOR2: "Терминатор Хаоса"        #STR_MUTON_SOLDIER
+  STR_FLOATER_ARMOR0: "Раптор Хаоса" #D
+  FLOATER_ARMOR2: "Раптор Хаоса" #D
+  STR_WARPTALON_ARMOR: "Коготь Варпа"            #D
+  STR_SECTOID_ARMOR0: "Культист"               #STR_SECTOID
+  STR_CULTIST_ARMOR: "Культист"                #STR_SECTOID_ENGINEER
+  STR_SECTOID_ARMORP: "Высший Жрец Культистов"   #STR_SECTOID_COMMANDER
+  STR_MUTON_ARMOR0: "Предатель-Хаосит"           #ETHEREAL_SOLDIER
+  STR_MUTON_ARMOR1: "Колдун Хаоса"          #ETHEREAL_LEADER
+  MUTON_ARMOR5: "Чемпион Хаоса" #D
+  STR_MUTON_ARMORB: "Берсеркер Кхорна"        #KHRONE MUTON_ARMORB
+  STR_CELATID_ARMOR: "Носитель Чумы"            #D
+  STR_REAPER_ARMOR: "Джаггернаут Хаоса" #D
+  CYBERDISC_ARMOR: "Крылатый Демон"    #D
+  SECTOPOD_ARMOR: "Дредноут Хаоса" #D
+  SECTOPOD_ARMOR2: "Дредноут Хаоса" #D
+  STR_SILACOID_ARMORT: "Демон Хаоса" #D
+  BEHEMOTH_ARMOR: "Чудовище"
 #UFOPEDIA
-  STR_NOT_DONE: "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_BEHEMOTH_UFOPEDIA: "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_NURGLE_UFOPEDIA: "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_TZEENTCH_UFOPEDIA: "{NEWLINE} Reports show this enemy is Fear Immune {NEWLINE} CODEX ARMOR DETAIL"
-  STR_SLAANESH_UFOPEDIA: "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_CHAOS_SENTINEL_UFOPEDIA: "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_SORCERER_UFOPEDIA: "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_PRIEST_UFOPEDIA: "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_BERSERKER_UFOPEDIA: "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_XENO_SOLDIER_UFOPEDIA:  "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_CARNI_TERRORIST_UFOPEDIA:  "{NEWLINE} Reports show this enemy is Fear Immune {NEWLINE} CODEX ARMOR DETAIL"
-  STR_OBLITERATOR_UFOPEDIA:  "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_PREDATORSIDE_UFOPEDIA:  "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_WARPTALON_UFOPEDIA:  "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_PREDATOR_UFOPEDIA:  "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_SNAKEMAN_UFOPEDIA:  "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_SECTOID_UFOPEDIA:  "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_ETHEREAL_UFOPEDIA:  "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_MUTON_UFOPEDIA:  "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_FLOATER_UFOPEDIA:  "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_CELATID_UFOPEDIA: "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_SILACOID_UFOPEDIA:  "{NEWLINE}{NEWLINE} CODEX ARMOR DETAIL"
-  STR_CHRYSSALID_UFOPEDIA:  "{NEWLINE} Reports show this enemy is Fear Immune {NEWLINE} CODEX ARMOR DETAIL"
-  STR_REAPER_UFOPEDIA:  "{NEWLINE} Reports show this enemy is Fear Immune {NEWLINE} CODEX ARMOR DETAIL"
-  STR_SECTOPOD_UFOPEDIA:  "{NEWLINE} Reports show this enemy is Fear Immune {NEWLINE} CODEX ARMOR DETAIL"
-  STR_CYBERDISC_UFOPEDIA:  "{NEWLINE} Reports show this enemy is Fear Immune {NEWLINE} CODEX ARMOR DETAIL"
+  STR_NOT_DONE: "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_BEHEMOTH_UFOPEDIA: "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_NURGLE_UFOPEDIA: "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_TZEENTCH_UFOPEDIA: "{NEWLINE} Этот противник имеет Иммунитет к Страху {NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_SLAANESH_UFOPEDIA: "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_CHAOS_SENTINEL_UFOPEDIA: "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_SORCERER_UFOPEDIA: "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_PRIEST_UFOPEDIA: "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_BERSERKER_UFOPEDIA: "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_XENO_SOLDIER_UFOPEDIA:  "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_CARNI_TERRORIST_UFOPEDIA:  "{NEWLINE} Этот противник имеет Иммунитет к Страху {NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_OBLITERATOR_UFOPEDIA:  "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_PREDATORSIDE_UFOPEDIA:  "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_WARPTALON_UFOPEDIA:  "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_PREDATOR_UFOPEDIA:  "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_SNAKEMAN_UFOPEDIA:  "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_SECTOID_UFOPEDIA:  "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_ETHEREAL_UFOPEDIA:  "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_MUTON_UFOPEDIA:  "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_FLOATER_UFOPEDIA:  "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_CELATID_UFOPEDIA: "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_SILACOID_UFOPEDIA:  "{NEWLINE}{NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_CHRYSSALID_UFOPEDIA:  "{NEWLINE} Этот противник имеет Иммунитет к Страху {NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_REAPER_UFOPEDIA:  "{NEWLINE} Этот противник имеет Иммунитет к Страху {NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_SECTOPOD_UFOPEDIA:  "{NEWLINE} Этот противник имеет Иммунитет к Страху {NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
+  STR_CYBERDISC_UFOPEDIA:  "{NEWLINE} Этот противник имеет Иммунитет к Страху {NEWLINE} ИНФОРМАЦИЯ О БРОНЕ"
   STR_SECTOID_AUTOPSY_UFOPEDIA: "ART by TD-Vice {NEWLINE} Chaos Cults are the most dangerous of all the organisations that plot to overthrow the rule of the Imperium of Man from within. All planets and civilisations belonging to the Imperium can harbour Chaotic organisations, which themselves are as diverse in practice and membership as is imaginable. From the blood-soaked sacrificial cults of Feral Worlds to the philosophical secret societies of more advanced planets, the temptations of Chaos can capture all."
   STR_SNAKEMAN_AUTOPSY_UFOPEDIA: "ART by TD-Vice {NEWLINE} Traitor Guard is a term given to the vast majority of disloyal mortals who have left the Imperial Guard in order to fight for Chaos. They are not a single coherent force, but rather a faction of the infinite collection of warbands and hosts under the leadership of Chaos Champions and part of the The Lost and the Damned."
   STR_ETHEREAL_AUTOPSY_UFOPEDIA: "During the Horus Heresy, the terrible Imperial civil war that pitted the Battle-Brothers of the 18 known Space Marine Legions against one another, there were two factions. These were the Loyalist Space Marines who continued to serve the Imperium and the Emperor of Mankind and the Chaos Space Marines of the Traitor Legions who betrayed the Emperor and pledged their souls to the service of the four Ruinous Powers of Chaos."
