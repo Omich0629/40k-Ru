@@ -1017,7 +1017,7 @@
   STR_M_9MISSION: "Миссия 9"
   STR_MISSION_INTRO: "ОБЗОР ПОБОЧНЫХ ОПЕРАЦИЙ"
   STR_MISSIONPEDIA_INTRO: "{NEWLINE} Force Commander, there are several missions that we might accept if we so wish. They will not affect our main campaign against the hostile forces on this planet, but can grant us more experience and new weapons for our forces."
-  STR_MISSIONPEDIA: "MISSIONS"
+  STR_MISSIONPEDIA: "MISSIONS CODEX"
   STR_MISSION1: "MISSION 1"
   STR_MISSION1_TEXT: "{NEWLINE} Training Exercise {NEWLINE}A simple training exercise will be provided to our starting forces. This will be necessary to provide experience to your forces for the battles ahead. {NEWLINE}{NEWLINE} OBJECTIVE:{NEWLINE}Take down all practice targets"
   STR_MISSION2: "MISSION 2"
