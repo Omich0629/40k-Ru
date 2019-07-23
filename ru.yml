@@ -1101,9 +1101,9 @@
   STR_RADAR_EQUIPMENT: "Оборудование Радара"
   RADAR_ARMOR: "Корпус Радара"
   STR_RADAR_REPAIR: "Ремонтировать Радар"
-  STR_FIELD_EQUIPMENT: "Field Interface Equipment"
-  FIELD_ARMOR: "Field Interface Table"
-  STR_FIELD_REPAIR: "Repair Field Interface"
+  STR_FIELD_EQUIPMENT: "Полевое Интерфейсное Оборудование" #???
+  FIELD_ARMOR: "Корпус Полевого Интерфейса" #смысл неясен. возможна ошибка перевода
+  STR_FIELD_REPAIR: "Ремонтировать Полевой Интерфейс" #??
   STR_SHIELD_EQUIPMENT: "Оборудование Щита"
   SHIELD_ARMOR: "Корпус Щита"
   STR_SHIELD_REPAIR: " Ремонтировать Щит"
@@ -1132,7 +1132,7 @@
   STR_HEAVY_PLASMA_MCJ: "Улучшенная Плазменная Пушка"
   STR_CHAINSWORD_MC: "Улучшенный Цепной Меч"
   STR_ALLIED: "Союзная Боевая Единица"
-  STR_RELICCASE: "Imperial Relic Case"
+  STR_RELICCASE: "Фрагмент Имперской Реликвии"
   STR_CPUCORE: "Ядро Процессора"
   STR_FUELCORE: "Топливное Ядро"
   STR_POWERCORE: "Ядро Питания"
@@ -1141,14 +1141,14 @@
   STR_MAP2: "КАРТА: ЧАСТЬ 2"
   STR_MAP3: "КАРТА: ЧАСТЬ 3"
   STR_DISTRESSDATA: "DISTRESS DATA"
-  STR_TATICALTRAININFO: "Tactical Training Data"
+  STR_TATICALTRAININFO: "Тактические Данные"
   STR_RELIC: "Имперская Реликвия"
   STR_LASER_PISTOLC: "Лазпистолет Хаоса"
   STR_LASER_PISTOLG: "Лазпистолет Гвардии"
   STR_LASER_RIFLEC: "Лазган Хаоса"
   STR_LASER_RIFLEG: "Лазган Гвардии"
-  STR_OBLITERATOR_MELEE_WEAPON: "Fused Fist"
-  STR_OBLITERATOR_WEAPON: "Fused Melta"
+  STR_OBLITERATOR_MELEE_WEAPON: "Кулак Облитератора"
+  STR_OBLITERATOR_WEAPON: "Мельта Облитератора"
   STR_COMBILAS: "Лазпушка"
   STR_FIXED_SONIC_CANON: "Звуковая Пушка"
   STR_ENABLE_WEAPON: "Оружейный Модуль"
@@ -1504,7 +1504,7 @@
   STR_AVENGER_UFOPEDIA: "{NEWLINE} Транспортный вариант стандартного корабля 'Громовой ястреб'. Применяется для переброски бронемашин Космического Десанта в зону боевых действий."
   STR_BIKE_R: "Мотоцикл"
   STR_TANK_CANNON: "Штурмовой Мотоцикл"
-  STR_HWP_CANNON_SHELLS: "Патроны Мотоциклетного Болтера"
+  STR_HWP_CANNON_SHELLS: "Патроны Мото-Болтера"
   STR_DROP: "Десантный Модуль"
   STR_VINDICATOR_WEAPON: "ЗАЩИТНИК"
   STR_VINDICATOR_UFOPEDIA: "{NEWLINE} 'Защитник' это Имперский осадный танк, созданный на базе бронетранспортера 'Носорог', используемый Орденами Космического Десанта. Несет наиболее наиболее мощное оружие из арсенала Адептус Астартес - Орудие 'Сокрушитель'."
@@ -2096,11 +2096,11 @@
   STR_OFFICER_RANK_5: "Генерал"
 
   STR_REGIMENT_COMMISSIONS: "Полковые Комиссии"
-  STR_UNPACK_COMMISSIONS: "Принять Полковые Комиссии"
-  STR_CONVERT_COMMISSION: "Конвертировать Комиссию в Повышение"
-  STR_OFFICER_COMMISSION: "Повышение Офицера"
+  STR_UNPACK_COMMISSIONS: "Награда за прогресс: Офицер" #Награда за изучение технологии "Полковые Офицеры". Дает 3(три) Знака Чести
+  STR_CONVERT_COMMISSION: "Повышение: Офицер" #Название пункта в меню производства
+  STR_OFFICER_COMMISSION: "Повышение: Офицер" #Ресурс для повышения гвардейца до офицера
   STR_OFFICER_REQUISITION: "Заказ: Офицер"
-  STR_PROMOTE_OFFICER: "Повышение до Офицера"
+  STR_PROMOTE_OFFICER: "Повышение: Офицер"
 
   STR_OFFICER_BASIC_VOX: "Вокс-Кастер"
   STR_CALL_AIRSTRIKE: "Запросить Авиаудар"
@@ -2115,8 +2115,8 @@
   STR_STORMTROOPER_RANK_3: "Темпестор Прайм"
 
   STR_STORMTROOPER_REQUISITION: "Заказ: Штурмовик"
-  STR_UNPACK_STORMTROOPER_REQUISITION: "Принять заказ на Штурмовика"
-  STR_VETERAN_PROMOTION: "Повышение до Ветерана"
+  STR_UNPACK_STORMTROOPER_REQUISITION: "Награда за прогресс: Штурмовик"
+  STR_VETERAN_PROMOTION: "Повышение: Ветеран"
 
   STR_SCION_CARAPACE_ARMOR: "Панцирный Доспех Штурмовика" #Отпрысков Темпестус?
   STR_SCION_CARAPACE_ARMOR_UFOPEDIA: "Штурмовая Пехота - элитные вооруженые силы, состоящие из наилучших солдат, доступных Имперской Гвардии. Они быстры, точны, снаряжены улучшенными Панцирными Доспехами и лучшими экземплярами вооружения."
@@ -2125,13 +2125,13 @@
   STR_STORMTROOPER_CARAPACE_ARMOR: "Улучшенный Панцирный Доспех"
   STR_STORMTROOPER_CARAPACE_ARMOR_UFOPEDIA: "Элитным Ветеранам Имперской Гвардии, доказавшим что в бою они так же эффективны как и Штурмовики, может быть предоставлено право ношения аналогичных бронекостюмов и тяжелого вооружения, недоступного обычным Гвардейцам."
 
-  STR_SCION_CARAPACE_ARMOR_HELLGUN: "Панцирный Доспех Штурмовика/Хеллган"
+  STR_SCION_CARAPACE_ARMOR_HELLGUN: "Доспех Штурмовика/Хеллган"
   STR_STORMTROOPER_CARAPACE_ARMOR_HELLGUN: "Улучш. Панцирный Доспех/Хеллган"
   STR_HELLGUN: "Хеллган"
   STR_HELLGUN_CLIP_HOTSHOT: "Батарея Хеллгана"
   STR_HELLGUN_UFOPEDIA: "{NEWLINE} Халлган - лазерное оружие, обладающее превосходным радиусом действия и мощностью, особенно в сравнении со стандартным лазганом. Улучшенные батареи обеспечивают большую эффективность этого оружия против бронированных целей. Подключение хеллгана к ранцевому аккумулятору обеспечивает возможность длительного использования без необходимости в перезарядке."
 
-  STR_SCION_CARAPACE_ARMOR_VOLLEYGUN: "П. Доспех Штурмовика/Залповый Лазган"
+  STR_SCION_CARAPACE_ARMOR_VOLLEYGUN: "Доспех Штурмовика/Залповый Лазган"
   STR_STORMTROOPER_CARAPACE_ARMOR_VOLLEYGUN: "Улучш. Панцирный Доспех/Залповый Лазган"
   STR_HOTSHOT_VOLLEY_GUN: "Залповый Лазган"
   STR_HOTSHOT_VOLLEY_GUN_UFOPEDIA: "{NEWLINE} Залповый Лазган - лазерное оружие обладающее высоким темпом стрельбы, что позволяет оперативно уничтожать большинство целей. Подключение этого оружия к ранцевому аккумулятору обеспечивает возможность длительного использования без необходимости в перезарядке."
@@ -2165,7 +2165,7 @@
   STR_PSYKER_RANK_0: "Псайкер"
 
   STR_PSYKER_REQUISITION: "Заказ: Санкционированный Псайкер"
-  STR_UNPACK_PSYKER_REQUISITION: "Принять заказ на Псайкера" # перефразировать при необходимости
+  STR_UNPACK_PSYKER_REQUISITION: "Награда за прогресс: Псайкер" # перефразировать при необходимости
 
   STR_PSYKER_ARMOR: "Роба Псайкера"
   STR_PSYKER_ARMOR_UFOPEDIA: "Санкционированные Псайкеры - редкие и необычные люди, уничтожающие врагов Империума разрушительной энергией Варпа. Не смотря на различающиеся способности, все они имеют базовые навыки выведения врагов из строя."
