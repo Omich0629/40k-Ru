@@ -1,0 +1,37 @@
+soldiers:
+##Guard Veteran
+  - type: STR_GUARD_VETERAN
+    soldierNames:
+      - delete
+      - GuardName/GuardName-ru.nam
+
+##Guard Officer
+  - type: STR_GUARD_OFFICER
+    soldierNames:
+      - delete
+      - GuardName/GuardName-ru.nam
+
+##Commissar
+  - type: STR_COMMISSAR
+    soldierNames:
+      - delete
+      - GuardName/
+
+##Stormtrooper
+  - type: STR_STORMTROOPER
+    soldierNames:
+      - delete
+      - GuardName/GuardName-ru.nam
+
+##Ogryn
+  - type: STR_OGRYN
+    soldierNames:
+      - delete
+      - OgrynName/OgrynName-ru.nam
+
+##Psykers
+  - type: STR_PSYKER
+    soldierNames:
+      - delete
+      - GuardName/GuardName-ru.nam
+

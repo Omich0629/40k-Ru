@@ -1,0 +1,6 @@
+name: "40k-Ru Soldiers Names"
+version: "0.9b"
+author: "Omich0629"
+description: "Cyrillic transliteration of soldiers names. Made for russian localization."
+id: 40kRuSoldiersNames
+master: 40k

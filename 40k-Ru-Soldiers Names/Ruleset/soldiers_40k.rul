@@ -1,0 +1,36 @@
+soldiers:
+##Sisters of Battle
+  - type: STR_ADEPTAS
+    soldierNames:
+      - delete
+      - AdeptasName/AdeptasName-ru.nam
+
+##Spacemarines
+  - type: STR_SOLDIER
+    soldierNames:
+      - delete
+      - MarineName/MarineName-ru.nam
+
+##Imperial Guards
+  - type: STR_GUARDSM
+    soldierNames:
+      - delete
+      - GuardName/GuardName-ru.nam
+
+##Fallen Spacemarines
+  - type: STR_FALLEN
+    soldierNames:
+      - delete
+      - MarineName/MarineName-ru.nam
+
+##That weird type of Spacemarines
+  - type: STR_SOLDIER_JOAN
+    soldierNames:
+      - delete
+      - MarineName/MarineName-ru.nam
+
+#Chaos Specemarines
+  - type: STR_CHAOS_MARINE
+    soldierNames:
+      - delete
+      - MarineName/MarineName-ru.nam
