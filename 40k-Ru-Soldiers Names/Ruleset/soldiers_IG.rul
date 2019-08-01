@@ -15,7 +15,7 @@ soldiers:
   - type: STR_COMMISSAR
     soldierNames:
       - delete
-      - GuardName/
+      - GuardName/GuardName-ru.nam
 
 ##Stormtrooper
   - type: STR_STORMTROOPER
@@ -34,4 +34,3 @@ soldiers:
     soldierNames:
       - delete
       - GuardName/GuardName-ru.nam
-
