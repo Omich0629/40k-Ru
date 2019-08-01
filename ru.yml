@@ -883,7 +883,7 @@
 
 #*** Geoscape *****************************************************************
   STR_CENTER_ON_UFO_TIME_5_SECONDS: "ЦЕНТР НА ПРОТИВНИКЕ, ВРЕМЯ=5 СЕК"
-  STR_GO_TO_LAST_KNOWN_UFO_POSITION: "К ПОСЛЕДНЕЙ ИЗВЕСТНОЙ ПОЗИЦИИ ПРОТИВНИКА"
+  STR_GO_TO_LAST_KNOWN_UFO_POSITION: "К ПОСЛЕДНЕЙ ИЗВЕСТНОЙ ПОЗИЦИИ ЦЕЛИ"
   STR_ALIEN_BASE_: "ВРАЖЕСКАЯ БАЗА-{0}"
   STR_TAILING_UFO: "ПРЕСЛЕДОВАНИЕ ПРОТИВНИКА"
   STR_INTERCEPTING_UFO: "ПЕРЕХВАТ ПРОТИВНИКА-{0}"
@@ -2471,7 +2471,7 @@
   STR_FUSION_BALL: "Топливо Бортовой Мульти-Мельты"
   STR_FUSION_MISSILE: "Заказ: Мульти-Мельта"
   STR_FUSION_BALL_UFOPEDIA: "{NEWLINE} Бортовая Мульти-Мельта"
-  STR_PLASMA_BEAM_UC: "СПАРЕННЫАЯ ПЛАЗМЕННАЯ ПУШКА"
+  STR_PLASMA_BEAM_UC: "СПАРЕННАЯ ПЛАЗМЕННАЯ ПУШКА"
   STR_PLASMA_BEAM: "Спаренная Плазменная Пушка"
   STR_PLASMA_BEAM_UFOPEDIA: "{NEWLINE} Спаренная Плазменная Пушка"
   STR_LASER_CANNON_UC: "БОРТОВАЯ ЛАЗПУШКА"
