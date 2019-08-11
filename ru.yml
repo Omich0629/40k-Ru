@@ -2837,3 +2837,5 @@
   STR_TRAITOR_GUARD_BASE: "Создание Базы"
   STR_CHIMERA_PATROL: "Патрулирование"
   STR_TRAITOR_GUARD_HK_RETALIATION: "Ответный Удар"
+  # категория в разделе Производство
+  STR_MISSIONS: "Миссии"
