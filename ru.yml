@@ -1287,7 +1287,7 @@
   STR_PLASMA_AMMO: "Топливо Плазмагана"
   STR_GRAV_AMMO: "Индукционне Ядро Грави-Гана"
   STR_DOUBLE_AMMO_UFOPEDIA: "{NEWLINE}Двуствольный Болтер - Информация об уроне: {NEWLINE}Модель повреждений: {NEWLINE}  (0-100% + 0-100%) {NEWLINE} Урон броне: 10% {NEWLINE} Игнорирует броню: 10% {NEWLINE} Урон здоровью: 200% {NEWLINE} Оглушающий урон: 100%" #D
-  STR_MELTA_AMMO_UFOPEDIA: "{NEWLINE}Топливо Мельты - Информация об уроне: {NEWLINE}Урон броне: 100% {NEWLINE}Урон здоровью: 160% {NEWLINE}Урон понижен на 10% за клетку за пределами 8 клеток. {NEWLINE} {NEWLINE}Топливо Мультимельты - Информация об уроне: {NEWLINE}Урон броне: 100% {NEWLINE}Урон здоровью: 160% {NEWLINE}Урон понижен на 5% за клетку за пределами 16 клеток." #D
+  STR_MELTA_AMMO_UFOPEDIA: "{NEWLINE}Топливо Мельты - Информация об уроне: {NEWLINE}Урон броне: 100% {NEWLINE}Урон здоровью: 160% {NEWLINE}Урон понижен на 10% за клетку за пределами 8 клеток. {NEWLINE} {NEWLINE}Топливо Мульти-Мельты - Информация об уроне: {NEWLINE}Урон броне: 100% {NEWLINE}Урон здоровью: 160% {NEWLINE}Урон понижен на 5% за клетку за пределами 16 клеток." #D
   STR_LAS_AMMO_UFOPEDIA: "{NEWLINE}Батарея Лазерного Оружия - Информация об уроне: {NEWLINE}Урон броне: 15% {NEWLINE}Урон здоровью: 100% {NEWLINE}Оглушающий урон: 0% {NEWLINE}Урон броне после пробития: 0%" #D
   STR_PLASMA_AMMO_UFOPEDIA: "{NEWLINE}Топливо Плазмагана - Информация об уроне: {NEWLINE}Игнорирует броню: 25% {NEWLINE}Урон здоровью: 100% {NEWLINE}Урон броне после пробития: 20%" #D
   STR_GRAV_AMMO_UFOPEDIA: "{NEWLINE}Индукционне Ядро Грави-Гана - Информация об уроне: {NEWLINE}Игнорирует броню: 100%" #D
@@ -2107,10 +2107,10 @@
   STR_SENTINEL_HEAVY_FLAMER: "Тяжелый Огнемет"
   STR_GUARD_ARMORS_SENTINEL_HEAVY_FLAMER_UC_UFOPEDIA: "'Страж' - одноместный шагоход повышенной проходимости, применяемый Имперской Гвардией для патрулирования и разведки в условиях сложного ландшафта.{NEWLINE}Вооружение: Тяжелый Огнемет{NEWLINE}Боеприпасы: Топливо Тяжелого Огнемета"
 
-  STR_GUARD_ARMORS_SENTINEL_MULTIMELTA_UC: "Улучш. Страж/Мультимельта"
-  STR_GUARD_ARMORS_SENTINEL_MULTIMELTA: "Улучш. Страж/Мультимельта"
-  STR_SENTINEL_MULTIMELTA: "Мультимельта"
-  STR_GUARD_ARMORS_SENTINEL_MULTIMELTA_UC_UFOPEDIA: "'Страж' - одноместный шагоход повышенной проходимости, применяемый Имперской Гвардией для патрулирования и разведки в условиях сложного ландшафта.{NEWLINE}Вооружение: Мультимельта"
+  STR_GUARD_ARMORS_SENTINEL_MULTIMELTA_UC: "Улучш. Страж/Мульти-Мельта"
+  STR_GUARD_ARMORS_SENTINEL_MULTIMELTA: "Улучш. Страж/Мульти-Мельта"
+  STR_SENTINEL_MULTIMELTA: "Мульти-Мельта"
+  STR_GUARD_ARMORS_SENTINEL_MULTIMELTA_UC_UFOPEDIA: "'Страж' - одноместный шагоход повышенной проходимости, применяемый Имперской Гвардией для патрулирования и разведки в условиях сложного ландшафта.{NEWLINE}Вооружение: Мульти-Мельта"
 
 
   STR_GUARD_ARMORS_MOUNTED_LASCANNON_UC: "Станковая Лазпушка"
@@ -2508,11 +2508,11 @@
   STR_AVALANCHE_MISSILES: "Плазменные Ракеты"
   STR_AVALANCHE: "Плазменные Ракеты"
   STR_AVALANCHE_UFOPEDIA: "{NEWLINE} Плазменные Ракеты{NEWLINE}{NEWLINE}Слот: Оружие{NEWLINE}Боеприпасы: Плазменные Ракеты"
-  STR_FUSION_BALL_LAUNCHER: "БОРТОВАЯ МУЛЬТИМЕЛЬТА"
-  STR_FUSION_BALL_UC: "БОРТОВАЯ МУЛЬТИМЕЛЬТА"
-  STR_FUSION_BALL: "Топливо Бортовой Мультимельты"
-  STR_FUSION_MISSILE: "Заказ: Мультимельта"
-  STR_FUSION_BALL_UFOPEDIA: "{NEWLINE} Бортовая Мульти-Мельта{NEWLINE}{NEWLINE}Слот: Оружие{NEWLINE}Боеприпасы: Топливо Бортовой Мультимельты"
+  STR_FUSION_BALL_LAUNCHER: "БОРТОВАЯ МУЛЬТИ-МЕЛЬТА"
+  STR_FUSION_BALL_UC: "БОРТОВАЯ МУЛЬТИ-МЕЛЬТА"
+  STR_FUSION_BALL: "Топливо Бортовой Мульти-Мельты"
+  STR_FUSION_MISSILE: "Заказ: Мульти-Мельта"
+  STR_FUSION_BALL_UFOPEDIA: "{NEWLINE} Бортовая Мульти-Мельта{NEWLINE}{NEWLINE}Слот: Оружие{NEWLINE}Боеприпасы: Топливо Бортовой Мульти-Мельты"
   STR_PLASMA_BEAM_UC: "СПАРЕННАЯ ПЛАЗМЕННАЯ ПУШКА"
   STR_PLASMA_BEAM: "Спаренная Плазменная Пушка"
   STR_PLASMA_BEAM_UFOPEDIA: "{NEWLINE} Спаренная Плазменная Пушка{NEWLINE}{NEWLINE}Слот: Оружие"
